@@ -265,6 +265,7 @@ menu.updates.content=Проверить наличие обновлений мессенджера.
 menu.updates=Обновления
 my_settings.error.password_match=Введенные пароли должны совпадать
 no_such_operator=Запрашиваемая учетная запись не существует
+not_found=-не найден-
 operator.group.no_description=&lt;без описания&gt;
 operator.groups.intro=Группы в которых состоит оператор.
 operator.groups.title=Группы
