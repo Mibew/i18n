@@ -418,6 +418,7 @@ page_settings.intro=Здесь вы можете задать опции влияющие на отображение чат окн
 page_settings.tab.features=Расширения
 page_settings.tab.main=Общее
 page_settings.tab.performance=Производительность
+page_settings.tab.page_themes=Просмотр стилей страниц оператора
 page_settings.tab.themes=Просмотр стилей диалогов
 page_settings.tab.invitationthemes=Просмотр стилей приглашений
 pending.errors.network=Обнаружены проблемы с сетью. Пожалуйста, перезагрузите страницу.
@@ -558,6 +559,8 @@ settings.onehostconnections.description=0 разрешает любое количество соединений
 settings.onehostconnections=Максимальное количество диалогов с одного адреса
 settings.onlinetimeout.description=Количество секунд, в течении которых оператор определяется как онлайн после последнего обновления. По умолчанию, 30 секунд.
 settings.onlinetimeout=Временной интервал доступности оператора
+settings.page_style.description=Предпросмотр каждого стиля доступен <a href="page_themes.php">здесь</a>
+settings.page_style=Выберите стиль страниц оператора
 settings.popup_notification.description=Позволяет привлечь ваше внимание, если звукового и визуального оповещения недостаточно.
 settings.popup_notification=Показывать небольшой диалог при появлении новых посетителей в очереди.
 settings.saved=Изменения сохранены
