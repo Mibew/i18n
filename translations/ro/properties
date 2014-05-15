@@ -1,6 +1,3 @@
-encoding=utf-8
-output_charset=utf-8
-output_encoding=utf-8
 admin.content.client_agents=Creaza, sterge operatorii companie.Divizati permisiunile lor.
 admin.content.client_gen_button=Code generator , butonul HTML.
 admin.content.client_settings=Specificati optiunile ce afecteaza fereastra de chat si sistemul de comportament.

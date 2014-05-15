@@ -1,6 +1,3 @@
-encoding=utf-8
-output_charset=utf-8
-output_encoding=utf-8
 chat.came.from=お客様が {0} ページから来ました
 chat.client.changename=ユーザーネームを変更する
 chat.client.name=お客様は

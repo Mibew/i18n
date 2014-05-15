@@ -1,6 +1,3 @@
-encoding=utf-8
-output_charset=utf-8
-output_encoding=utf-8
 admin.content.client_agents=建立、刪除或管理客服許可權。
 admin.content.client_gen_button=產生放置在網站上的HTML語法。
 admin.content.client_settings=設定基本選項以及開放功能。

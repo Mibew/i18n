@@ -1,6 +1,3 @@
-encoding=utf-8
-output_charset=utf-8
-output_encoding=utf-8
 admin.content.client_agents=Dodavanje, brisanje operatora poduzeća. Uređivanje njihovih postavki.
 admin.content.client_gen_button=Generiranje HTML koda gumba.
 admin.content.client_settings=Određivanje postavki prozora za razgovor i uobičajenog ponašanja sustava.

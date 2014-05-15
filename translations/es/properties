@@ -1,6 +1,3 @@
-encoding=utf-8
-output_charset=utf-8
-output_encoding=utf-8
 admin.content.client_agents=Crear, eliminar agentes. Editar permisos.
 admin.content.client_gen_button=Genera código boton HTML.
 admin.content.client_settings=Especifique las opciones que afectan a la ventana de la charla y al comportamiento de sistema común.

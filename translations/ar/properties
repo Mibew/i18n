@@ -1,6 +1,3 @@
-encoding=utf-8
-output_charset=utf-8
-output_encoding=utf-8
 admin.content.client_agents=إضافة و حذف مقدمي الخدمة وإدارة صلاحياتهم.
 admin.content.client_gen_button=إعداد كود HTML للدخول الدردشة.
 admin.content.client_settings=تحديد الخيارات المؤثرة على شاشة المحادثة وسلوك النظام العام.
