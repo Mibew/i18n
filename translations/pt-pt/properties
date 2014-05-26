@@ -5,7 +5,7 @@ admin.content.description=Funções disponíveis para administradores.
 agent.not_logged_in=A sua sessão expirou, por favor faça novamente o login
 app.descr=Mibew Messenger é uma aplicação  de suporte online de código aberto.
 app.title=Mibew Messenger
-ban.error.duplicate=O endereço especificado já está em uso, clique <a href="ban.php?id={1}">aqui</a> se deseja editá-lo.
+ban.error.duplicate=O endereço especificado já está em uso, clique <a href="{1}">aqui</a> se deseja editá-lo.
 button.delete=Apagar
 button.enter=Entrar
 button.offline.bottom=Deixe a sua mensagem

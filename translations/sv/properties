@@ -5,7 +5,7 @@ admin.content.description=Funktioner för operatörer.
 agent.not_logged_in=Din session har gått ut, var god logga in igen
 app.descr=Mibew Messenger är ett program med öppen källkod för livehjälp.
 app.title=Mibew Messenger
-ban.error.duplicate=Adressen är redan använd, klicka <a href="ban.php?id={1}">här</a> om du vill ändra det.
+ban.error.duplicate=Adressen är redan använd, klicka <a href="{1}">här</a> om du vill ändra det.
 button.delete=Ta bort
 button.enter=Skicka
 button.offline.bottom=Lämna ditt meddelande

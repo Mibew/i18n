@@ -5,7 +5,7 @@ admin.content.description=Az oldal operátorai által elérhető funkciók.
 agent.not_logged_in=A munkamenet lejárt, jelentkezzen be újra
 app.descr=A Mibew üzenetküldő egy nyílt forráskódú ügyfélszolgálati alkalmazás.
 app.title=Mibew üzenetküldő
-ban.error.duplicate=A megadott cím már használatban van, kattintson <a href="ban.php?id={1}">ide</a> ha szerkeszteni akarja.
+ban.error.duplicate=A megadott cím már használatban van, kattintson <a href="{1}">ide</a> ha szerkeszteni akarja.
 button.delete=Törlés
 button.enter=Bevitel
 button.offline.bottom=Hagyjon üzenetet

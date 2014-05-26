@@ -5,7 +5,7 @@ admin.content.description=Funciones disponibles sólo para usuarios administrado
 agent.not_logged_in=Su sesión ha expirado por favor accese de nuevo
 app.descr=Mibew Messenger en una aplicación open-source para el soporte en tiempo real.
 app.title=Mibew Messenger
-ban.error.duplicate=La dirección esta en uso pincha en <a href="ban.php?id={1}">here</a>, si quieres editarla.
+ban.error.duplicate=La dirección esta en uso pincha en <a href="{1}">here</a>, si quieres editarla.
 button.delete=Eliminar
 button.enter=Entrar
 button.offline.bottom=Dejar tu mensaje

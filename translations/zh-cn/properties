@@ -5,7 +5,7 @@ admin.content.description=管理员可以利用下方功能进行管理。
 agent.not_logged_in=您闲置超过时限，请重新登入。
 app.descr=网站实时讯息是一个开源的在线客服应用。
 app.title=网站实时讯息
-ban.error.duplicate=地址 {0} 已经存在于系统之中，点选　<a href="ban.php?id={1}">这里</a> 进行编辑。
+ban.error.duplicate=地址 {0} 已经存在于系统之中，点选　<a href="{1}">这里</a> 进行编辑。
 button.delete=删除
 button.enter=输入
 button.offline.bottom=留下离线讯息

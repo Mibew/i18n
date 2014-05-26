@@ -5,7 +5,7 @@ admin.content.description=Fonctions disponible pour utilisateurs autorisés.
 agent.not_logged_in=Votre session a expiré; ouvrez une nouvelle session
 app.descr=Mibew Messenger est une application de Support Direct sous licence Open-Source Initiative.
 app.title=Mibew Messenger
-ban.error.duplicate=L'adresse {0} est déjà utilisée, cliquez <a href="ban.php?id={1}">ici</a> pour la modifier.
+ban.error.duplicate=L'adresse {0} est déjà utilisée, cliquez <a href="{1}">ici</a> pour la modifier.
 button.delete=Supprimer
 button.enter=Entrer
 button.offline=Hors ligne

@@ -5,7 +5,7 @@ admin.content.description=Funkcije dostupne operatorima stranica.
 agent.not_logged_in=Vaša sesija je istekla, molimo ponovno se prijavite
 app.descr=Mibew Messenger je aplikacija otvorenog koda za podršku uživo.
 app.title=Mibew Messenger
-ban.error.duplicate=Navedena adresa je već u upotrebi, kliknite <a href="ban.php?id={1}">ovdje</a> ako je želite urediti.
+ban.error.duplicate=Navedena adresa je već u upotrebi, kliknite <a href="{1}">ovdje</a> ako je želite urediti.
 button.delete=Izbriši
 button.enter=Ulaz
 button.save=Spremi

@@ -4,7 +4,7 @@ admin.content.description=Tilladte funktioner for administratorer.
 agent.not_logged_in=Din session er udløbet. Venligst login igen
 app.descr=Mibew Messenger er et open-source live support program.
 app.title=Mibew Messenger
-ban.error.duplicate=Adressen er allerede i brug, klik <a href="ban.php?id={1}">her</a> for at ændre det.
+ban.error.duplicate=Adressen er allerede i brug, klik <a href="{1}">her</a> for at ændre det.
 button.delete=Slet
 button.enter=Enter
 button.offline.bottom=Læg din besked

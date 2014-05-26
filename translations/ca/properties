@@ -5,7 +5,7 @@ admin.content.description=Funcions disponibles només per a usuaris administrado
 agent.not_logged_in=La vostra sessió ha expirat si us plau accedeix de nou
 app.descr=Mibew Messenger és una aplicació de codi obert per al suport en línia.
 app.title=Mibew Messenger
-ban.error.duplicate=Adreça {0} està en el sistema, clic <a href="ban.php?id={1}">aquí</a> per editar.
+ban.error.duplicate=Adreça {0} està en el sistema, clic <a href="{1}">aquí</a> per editar.
 button.delete=Eliminar
 button.enter=Entrar
 button.offline.bottom=Deixa el teu missatge

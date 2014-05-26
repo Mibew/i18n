@@ -5,7 +5,7 @@ admin.content.description=Funkcijos, prienamos tik registruotiems operatoriams.
 agent.not_logged_in=Jūsų sesija baigėsi, prašome prisijungti dar karta
 app.descr=Mibew Messenger tai bendavimo su Jūsų tinklalapio lankytojais sistema.
 app.title=Mibew Messenger
-ban.error.duplicate=Adresas jau įregistruotas sistemoje, paspauskite <a href="ban.php?id={1}">čia</a> kad jį pataisyti.
+ban.error.duplicate=Adresas jau įregistruotas sistemoje, paspauskite <a href="{1}">čia</a> kad jį pataisyti.
 button.delete=Pašalinti
 button.enter=Įeiti
 button.offline.bottom=Palikite pranešimą

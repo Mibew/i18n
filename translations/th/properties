@@ -5,7 +5,7 @@ admin.content.description=ฟังก์ชันที่ใช้งานไ
 agent.not_logged_in=กรุณาเข้าสู่ระบบใหม่อีกครั้ง เนื่องจากเกินเวลาที่กำหนดไว้
 app.descr=Mibew Messenger เป็นแอพพลิเคชั่น open-source live support.
 app.title=Mibew Messenger
-ban.error.duplicate=คุณระบุที่อยู่ซ้ำกันในระบบ <a href="ban.php?id={1}">คลิกที่นี่</a> เพื่อแก้ไขอีกครั้ง.
+ban.error.duplicate=คุณระบุที่อยู่ซ้ำกันในระบบ <a href="{1}">คลิกที่นี่</a> เพื่อแก้ไขอีกครั้ง.
 button.delete=ลบ
 button.enter=ส่ง
 button.offline.bottom=กรุณาฝากข้อความ

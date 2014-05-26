@@ -5,7 +5,7 @@ admin.content.description=Functies beschikbaar voor operators.
 agent.not_logged_in=Uw sessie is verlopen, log aub opnieuw in
 app.descr=Mibew Messenger is een open-source live support applicatie.
 app.title=Mibew Messenger
-ban.error.duplicate=Dit adres is al in gebruik, click <a href="ban.php?id={1}">hier</a> om het aan te passen.
+ban.error.duplicate=Dit adres is al in gebruik, click <a href="{1}">hier</a> om het aan te passen.
 button.delete=Wissen
 button.enter=Enter
 button.offline.bottom=Laat een bericht achter

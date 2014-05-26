@@ -5,7 +5,7 @@ admin.content.description=Funzioni disponibili per gli operatori.
 agent.not_logged_in=La tua sessione è scaduta, riesegui il login
 app.descr=Mibew Messenger è un'applicazione open-source per l'assistenza in tempo reale.
 app.title=Mibew Messenger
-ban.error.duplicate=L'indirizzo specificato è già in uso, clicca <a href="ban.php?id={1}">qui</a> se vuoi modificarlo.
+ban.error.duplicate=L'indirizzo specificato è già in uso, clicca <a href="{1}">qui</a> se vuoi modificarlo.
 button.delete=Cancella
 button.enter=Entra
 button.offline.bottom=Lascia un messaggio

@@ -5,7 +5,7 @@ admin.content.description=Dostępne funkcje kontroli użytkowników.
 agent.not_logged_in=Twoja sesja wygasła, zaloguj się ponownie
 app.descr=Mibew Komunikator jest oprogramowaniem wsparcia użytkownika (live support) opartym na licencji open-source.
 app.title=Mibew Komunikator
-ban.error.duplicate=Podane adresy są już używane, kliknij <a href="ban.php?id={1}">tutaj</a> jeśli chcesz je edytować.
+ban.error.duplicate=Podane adresy są już używane, kliknij <a href="{1}">tutaj</a> jeśli chcesz je edytować.
 button.delete=Usuń
 button.enter=Wprowadź
 button.offline.bottom=Zostaw swoją wiadomość

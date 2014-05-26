@@ -5,7 +5,7 @@ admin.content.description=Λειτουργίες που είναι διαθέσ�
 agent.not_logged_in=Η συνεδρία σας έχει λήξει παρακαλώ συνδεθείτε ξανά
 app.descr=Το Mibew Messenger είναι μία εφαρμογή ΕΛ/ΛΑΚ για 'Άμεση ζωντανή  υποστήριξη.
 app.title=Συνομιλητής Mibew
-ban.error.duplicate=Η συγκεκριμένη διεύθυνση είναι ήδη σε χρήση, κάντε κλικ <a href="ban.php?id={1}">εδώ</a> αν θέλετε να την επεξεργαστείτε.
+ban.error.duplicate=Η συγκεκριμένη διεύθυνση είναι ήδη σε χρήση, κάντε κλικ <a href="{1}">εδώ</a> αν θέλετε να την επεξεργαστείτε.
 button.delete=Διαγραφή
 button.enter=Enter
 button.offline.bottom=Αφήστε το μήνυμά σας

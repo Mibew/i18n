@@ -5,7 +5,7 @@ admin.content.description=Funksjoner tilgjenglig for kundebehandlere.
 agent.not_logged_in=Økten din er utløpt. Vennligst logg inn igjen.
 app.descr=Mibew Messenger er et open-source live support program.
 app.title=Mibew Messenger (oversatt av onlinehjelpen.no)
-ban.error.duplicate=Den spesifiserte adressen er allerede i bruk, klikk <a href="ban.php?id={1}">her</a> dersom du vil redigere den.
+ban.error.duplicate=Den spesifiserte adressen er allerede i bruk, klikk <a href="{1}">her</a> dersom du vil redigere den.
 button.delete=Slett
 button.enter=Gå
 button.offline.bottom=Legg igjen melding

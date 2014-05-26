@@ -5,7 +5,7 @@ admin.content.description=Functiile disponibile pentru operatorii site-ului.
 agent.not_logged_in=Timpul dumneavoastra a expirat , va rugam sa intrati din nou
 app.descr=Mibew Messenger este o aplicatie gratuita de live suport.
 app.title=Mibew Messenger
-ban.error.duplicate=Adresa specificata este deja in folosire, apasati <a href="ban.php?id={1}">here</a> daca doriti sa modificati.
+ban.error.duplicate=Adresa specificata este deja in folosire, apasati <a href="{1}">here</a> daca doriti sa modificati.
 button.delete=Stergeti
 button.enter=Intrare
 button.offline.bottom=Lasati mesajul dumneavoastra

@@ -5,7 +5,7 @@ admin.content.description=פונקציות זמינות עבור מפעילי ה
 agent.not_logged_in=פג תוקף ההפעלה, בבקשה התחבר שוב
 app.descr=מסנגר הוא הינו מקור פתוח לתמיכה בזמן אמת.
 app.title=מסנגר
-ban.error.duplicate=הכתובת שמצויינת כבר בשימוש, לחץ <a href="ban.php?id={1}">here</a> אם ברצונך לערוך אותו.
+ban.error.duplicate=הכתובת שמצויינת כבר בשימוש, לחץ <a href="{1}">here</a> אם ברצונך לערוך אותו.
 button.delete=מחק
 button.enter=היכנס
 button.save=שמור

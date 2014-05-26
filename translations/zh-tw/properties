@@ -5,7 +5,7 @@ admin.content.description=管理員可以利用下方功能進行管理。
 agent.not_logged_in=您閒置超過時限，請重新登入。
 app.descr=網站即時訊息是一個開源的線上客服應用。
 app.title=網站即時訊息
-ban.error.duplicate=地址 {0} 已經存在於系統之中，點選　<a href="ban.php?id={1}">這裏</a> 進行編輯。
+ban.error.duplicate=地址 {0} 已經存在於系統之中，點選　<a href="{1}">這裏</a> 進行編輯。
 button.delete=刪除
 button.enter=輸入
 button.offline.bottom=留下離線訊息

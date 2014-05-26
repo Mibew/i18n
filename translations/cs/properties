@@ -5,7 +5,7 @@ admin.content.description=Funkce dostupné pro administrátory.
 agent.not_logged_in=Vaše sezení vypršelo, prosím přihlaste se znovu
 app.descr=Mibew Messenger je aplikace pro živou podporu s otevřeným kódem.
 app.title=Mibew Messenger
-ban.error.duplicate=Tato adresa je již využívána, klikněte <a href="ban.php?id={1}">sem</a> pokud ji chcete editovat.
+ban.error.duplicate=Tato adresa je již využívána, klikněte <a href="{1}">sem</a> pokud ji chcete editovat.
 button.delete=Smazat
 button.enter=Vložit
 button.offline.bottom=Zanechte zprávu

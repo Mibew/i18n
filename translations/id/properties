@@ -5,7 +5,7 @@ admin.content.description=Fungsi tersedia untuk operator situs.
 agent.not_logged_in=Sesi Anda kadaluarsa silahkan login lagi
 app.descr=Mibew Messenger merupakan open-source aplikasi live support.
 app.title=Mibew Messenger
-ban.error.duplicate=Alamat yang ditentukan sudah digunakan, klik <a href="ban.php?id={1}"> sini </a> jika Anda ingin mengeditnya.
+ban.error.duplicate=Alamat yang ditentukan sudah digunakan, klik <a href="{1}"> sini </a> jika Anda ingin mengeditnya.
 button.delete=Hapus
 button.enter=Masukkan
 button.offline.bottom=Tinggalkan pesan Anda

@@ -5,7 +5,7 @@ admin.content.description=Operatörlere açık fonksiyonlar.
 agent.not_logged_in=Tarayıcı seans süreniz dolmuştur, lütfen tekrar giriş yapın
 app.descr=Mibew Messenger açık kaynak kodlu bir canlı destek uygulamasıdır.
 app.title=Mibew Messenger
-ban.error.duplicate=Belirtilen adres kullanımda, düzenlemek için <a href="ban.php?id={1}">buraya</a> tıklayın.
+ban.error.duplicate=Belirtilen adres kullanımda, düzenlemek için <a href="{1}">buraya</a> tıklayın.
 button.delete=Sil
 button.enter=Gir
 button.offline.bottom=Mesaj bırakın

@@ -384,7 +384,7 @@ settings.enablejabber=فعال کردن "اطلاعیه های Jabber"
 menu.goonline=شما آفلاین هستید.<br/><a href="{0}">آنلاین شدن...</a>
 button.offline.top=مشاور سایت
 button.online.top=مشاور سایت
-ban.error.duplicate=آدرس مشخص شده در حال حاضر در حال استفاده است.در صورتی که می خواهید آن را ویرایش کنید <a href="ban.php?id={1}">اینجا</a> کلیک کنید.
+ban.error.duplicate=آدرس مشخص شده در حال حاضر در حال استفاده است.در صورتی که می خواهید آن را ویرایش کنید <a href="{1}">اینجا</a> کلیک کنید.
 clients.queue.chat=بازدید در پنجره
 chat.client.visited.page=پیمایش بازدید کنندگان به {0}
 chat.redirect.unknown_group=گروه ناشناخته

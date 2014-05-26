@@ -5,7 +5,7 @@ admin.content.description=Набір функцій, доступний тіль
 agent.not_logged_in=Ваша сесія застаріла, увійдіть, будь-ласка, знову
 app.descr=Mibew Месенджер - це програма для спілкування з відвідувачами вашого сайту.
 app.title=Mibew месенджер
-ban.error.duplicate=Адреса {0} вже зареєстрована в системі, натисніть <a href="ban.php?id={1}">тут</a> для її редагування.
+ban.error.duplicate=Адреса {0} вже зареєстрована в системі, натисніть <a href="{1}">тут</a> для її редагування.
 button.delete=Видалити
 button.enter=Увійти
 button.save=Зберегти

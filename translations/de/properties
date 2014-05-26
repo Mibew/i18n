@@ -5,7 +5,7 @@ admin.content.description=Funktionen für Poweruser verfügbar.
 agent.not_logged_in=Ihre Session ist abgelaufen! Bitte melden Sie sich noch einmal an.
 app.descr=Mibew Messenger ist eine open-source live support software.
 app.title=Live Support
-ban.error.duplicate=Addresse {0} ist schon vorhanden, klicke <a href="ban.php?id={1}">hier</a> um die Addresse zu ändern.
+ban.error.duplicate=Addresse {0} ist schon vorhanden, klicke <a href="{1}">hier</a> um die Addresse zu ändern.
 button.delete=Löschen
 button.enter=OK
 button.offline.bottom=Nachricht hinterlassen
