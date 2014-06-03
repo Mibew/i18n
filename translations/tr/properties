@@ -397,7 +397,7 @@ right.main=Anasayfa
 right.other=Diğer
 settings.chat.title.description=Örneğin şirketinizin ismi.
 settings.chat.title=Görüşme penceresi başlığı
-settings.chatstyle.description=Tüm sayfaların her stilde önizlemeleri  <a href="themes.php">bu adreste</a> görülebilir
+settings.chatstyle.description=Tüm sayfaların her stilde önizlemeleri  <a href="{0}">bu adreste</a> görülebilir
 settings.chatstyle=Görüşme penceresi stilini seçin
 settings.company.title.description=Şirket ünvanınızı yazın
 settings.company.title=Şirket ünvanı

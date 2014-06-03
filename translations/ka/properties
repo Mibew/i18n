@@ -427,7 +427,7 @@ right.main=მთავარი
 right.other=სხვა
 settings.chat.title.description=დაასახელეთ თქვენი კომპანიის სახელწოდება მაგალითისთვის.
 settings.chat.title=ჩეთის ფანჯრის სათაური
-settings.chatstyle.description=ჩვენება ყველა გვერდის თითოეული არსებული სტილისთვის<a href="themes.php">here</a>
+settings.chatstyle.description=ჩვენება ყველა გვერდის თითოეული არსებული სტილისთვის<a href="{0}">here</a>
 settings.chatstyle=შეარჩიე სტილი საუბრის ფანჯრისთვის
 settings.company.title.description=შეიყვანეთ თქვენი კომპანიის სახელწოდება
 settings.company.title=კომპანიის სახელწოდება

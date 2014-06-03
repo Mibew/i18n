@@ -364,7 +364,7 @@ right.main=Відвідувачі
 right.other=Інше
 settings.chat.title.description=Наприклад, назва відділу Вашої компанії.
 settings.chat.title=Заголовок у вікні чату
-settings.chatstyle.description=Попередній перегляд сторінок кожного стилю доступний <a href="themes.php">тут</a>
+settings.chatstyle.description=Попередній перегляд сторінок кожного стилю доступний <a href="{0}">тут</a>
 settings.chatstyle=Оберіть вигляд Вашого вікна чату
 settings.company.title.description=Введіть назву Вашої компанії
 settings.company.title=Назва компанії

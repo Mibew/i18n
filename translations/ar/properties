@@ -397,7 +397,7 @@ right.main=الرئيسة
 right.other=غير ذلك
 settings.chat.title.description=اسم شركتك على سبيل المثال.
 settings.chat.title=العنوان في شاشة المحادثة
-settings.chatstyle.description=معاينة لجميع صفحات النمط متاحة  <a href="themes.php">هنا</a>
+settings.chatstyle.description=معاينة لجميع صفحات النمط متاحة  <a href="{0}">هنا</a>
 settings.chatstyle=اختر نمط لشاشة المحادثة
 settings.company.title.description=أدخل اسم الشركة
 settings.company.title=عنوان الشاركة

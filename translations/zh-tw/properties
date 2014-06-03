@@ -454,7 +454,7 @@ right.main=主要
 right.other=其他
 settings.chat.title.description=例如您公司的部門
 settings.chat.title=對談窗口標題
-settings.chatstyle.description=若要預覽頁面的每個樣式，請點 <a href="themes.php">這裏</a>
+settings.chatstyle.description=若要預覽頁面的每個樣式，請點 <a href="{0}">這裏</a>
 settings.chatstyle=選擇對談窗口的樣式
 settings.company.title.description=輸入公司名稱
 settings.company.title=公司名稱

@@ -411,7 +411,7 @@ right.main=Utama
 right.other=Lainnya
 settings.chat.title.description=Nama perusahaan Anda misalnya.
 settings.chat.title=Judul di jendela obrolan
-settings.chatstyle.description=Pratinjau untuk semua halaman masing-masing gaya tersedia <a href="themes.php"> di sini </a>
+settings.chatstyle.description=Pratinjau untuk semua halaman masing-masing gaya tersedia <a href="{0}"> di sini </a>
 settings.chatstyle=Pilih style untuk Anda jendela chatting
 settings.company.title.description=Masukkan judul perusahaan Anda
 settings.company.title=Judul perusahaan

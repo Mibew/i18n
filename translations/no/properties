@@ -433,7 +433,7 @@ right.main=Hovedmeny
 right.other=Annet
 settings.chat.title.description=F.eks firmanavn.
 settings.chat.title=Tittel i samtalevinduet
-settings.chatstyle.description=Forhåndsvisning av tema finner du <a href="themes.php">her</a>
+settings.chatstyle.description=Forhåndsvisning av tema finner du <a href="{0}">her</a>
 settings.chatstyle=Velg utseende på samtalevinduet
 settings.company.title.description=Skriv inn ditt firmanavn:
 settings.company.title=Firmanavn

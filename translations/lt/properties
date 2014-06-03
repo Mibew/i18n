@@ -379,7 +379,7 @@ right.main=Lankytojai
 right.other=Kita
 settings.chat.title.description=Pavyzdžiui, Jūsų įmonės padalinio pavadinimas.
 settings.chat.title=Pavadinimas pokalbio lange
-settings.chatstyle.description=Preliminari visų kiekvieno stiliaus puslapių peržiūra prienama <a href="themes.php">čia</a>
+settings.chatstyle.description=Preliminari visų kiekvieno stiliaus puslapių peržiūra prienama <a href="{0}">čia</a>
 settings.chatstyle=Pasirinkite Jūsų pokalbio lango stilių
 settings.company.title.description=Įveskite Jūsų įmonės pavadinimą
 settings.company.title=Įmonės pavadinimas

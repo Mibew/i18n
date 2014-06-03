@@ -411,7 +411,7 @@ right.main=Opções
 right.other=Outros
 settings.chat.title.description=Departamento de sua empresa por exemplo.
 settings.chat.title=Título na janela do chat
-settings.chatstyle.description=Para visualizar todos os estilos, clique <a href="themes.php">aqui</a>
+settings.chatstyle.description=Para visualizar todos os estilos, clique <a href="{0}">aqui</a>
 settings.chatstyle=Selecione um estilo para suas janelas de chat
 settings.company.title.description=Digite o nome da sua Empresa
 settings.company.title=Nome da Empresa

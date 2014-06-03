@@ -508,7 +508,7 @@ right.main=Посетители
 right.other=Остальное
 settings.chat.title.description=Например, название отдела вашей компании.
 settings.chat.title=Заголовок в чат окне
-settings.chatstyle.description=Предпросмотр всех страниц каждого стиля доступен <a href="themes.php">здесь</a>
+settings.chatstyle.description=Предпросмотр всех страниц каждого стиля доступен <a href="{0}">здесь</a>
 settings.chatstyle=Выберите вид вашего чат окна
 settings.company.title.description=Введите название Вашей компании
 settings.company.title=Название компании
@@ -548,7 +548,7 @@ settings.host.description=Будет открываться по нажатию 
 settings.host=Ссылка на ваш веб сайт
 settings.invitationlifetime.description=Укажите срок действия приглашения к диалогу в секундах. По умолчанию, 60 секунд.
 settings.invitationlifetime=Срок действия приглашения
-settings.invitationstyle.description=Предпросмотр стиля приглашения доступен <a href="invitationthemes.php">здесь</a>
+settings.invitationstyle.description=Предпросмотр стиля приглашения доступен <a href="{0}">здесь</a>
 settings.invitationstyle=Выберите вид приглашения
 settings.leavemessage_captcha.description=Защита от автоматизированного спама (captcha)
 settings.leavemessage_captcha=Разрешать оставлять сообщение только после ввода специального кода с картинки
@@ -563,7 +563,7 @@ settings.onehostconnections.description=0 разрешает любое коли
 settings.onehostconnections=Максимальное количество диалогов с одного адреса
 settings.onlinetimeout.description=Количество секунд, в течении которых оператор определяется как онлайн после последнего обновления. По умолчанию, 30 секунд.
 settings.onlinetimeout=Временной интервал доступности оператора
-settings.page_style.description=Предпросмотр каждого стиля доступен <a href="page_themes.php">здесь</a>
+settings.page_style.description=Предпросмотр каждого стиля доступен <a href="{0}">здесь</a>
 settings.page_style=Выберите стиль страниц оператора
 settings.popup_notification.description=Позволяет привлечь ваше внимание, если звукового и визуального оповещения недостаточно.
 settings.popup_notification=Показывать небольшой диалог при появлении новых посетителей в очереди.

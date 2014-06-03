@@ -397,7 +397,7 @@ right.main=หน้าหลัก
 right.other=อื่นๆ
 settings.chat.title.description=ตัวอย่างเช่นชื่อของบริษัทคุณ.
 settings.chat.title=ชื่อหัวข้อในหน้าต่างการสนทนา
-settings.chatstyle.description=ดูเว็บเพจคราวๆทั้งหมดของแต่สไตล์ <a href="themes.php">ได้ที่นี่</a>
+settings.chatstyle.description=ดูเว็บเพจคราวๆทั้งหมดของแต่สไตล์ <a href="{0}">ได้ที่นี่</a>
 settings.chatstyle=เลือกสไตล์สำหรับหน้าต่างการสนทนาของคุณ
 settings.company.title.description=ระบุชื่อบริษัทของคุณ
 settings.company.title=ชื่อบริษัท

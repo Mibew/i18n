@@ -411,7 +411,7 @@ right.main=Główne
 right.other=Inne
 settings.chat.title.description=Przykładowo dział twojej firmy.
 settings.chat.title=Tytuł okna rozmowy
-settings.chatstyle.description=Przeglądaj wszystkie strony dostępnych stylów <a href="themes.php">tutaj</a>
+settings.chatstyle.description=Przeglądaj wszystkie strony dostępnych stylów <a href="{0}">tutaj</a>
 settings.chatstyle=Wybierz styl okna rozmowy
 settings.company.title.description=Wprowadź nazwę swojej firmy
 settings.company.title=Nazwa firmy

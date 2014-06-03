@@ -397,7 +397,7 @@ right.main=Main
 right.other=Overig
 settings.chat.title.description=Uw bedrijfsnaam bijvoorbeeld.
 settings.chat.title=Titel in het Chatvenster
-settings.chatstyle.description=Preview is voor alle pagina's in elke stijl beschikbaar <a href="themes.php">hier</a>
+settings.chatstyle.description=Preview is voor alle pagina's in elke stijl beschikbaar <a href="{0}">hier</a>
 settings.chatstyle=Kies een stijl voor uw chat window
 settings.company.title.description=Bedrijfsnaam invullen
 settings.company.title=Bedrijfsnaam

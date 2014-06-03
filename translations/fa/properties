@@ -549,7 +549,7 @@ leavemail.body=شما پیامی دارید از {0}: {2} ایمیل ایشان:
 install.5.text=برای بررسی صدای کلیک کنید: {0} و {1}
 install.bad_checksum=chechsum نادرست برای {0}
 install.cannot_read=فایل {0} قابل خواند نیست
-settings.chatstyle.description=پیش نمایش تمام صفحه برای هر سبک <a href="themes.php"> در ​​اینجا </ a> است
+settings.chatstyle.description=پیش نمایش تمام صفحه برای هر سبک <a href="{0}"> در ​​اینجا </ a> است
 settings.enablepresurvey.description=مجبور به کاربر برای پر کردن یک فرم خاص برای شروع چت.
 settings.onehostconnections.description=اجازه تعداد نامحدود ارتباط 0
 settings.enablestatistics.description=اضافه کردن صفحه ای با گزارش های استفاده ی پیام رسان.

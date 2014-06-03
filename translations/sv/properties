@@ -397,7 +397,7 @@ right.main=Start
 right.other=Annat
 settings.chat.title.description=Till exempel ditt företagsnamn.
 settings.chat.title=Rubrik i chattfönstret
-settings.chatstyle.description=Förhandsgranskning av hur sidan ser ut i varje tema finns <a href="themes.php">här</a>
+settings.chatstyle.description=Förhandsgranskning av hur sidan ser ut i varje tema finns <a href="{0}">här</a>
 settings.chatstyle=Välj ett utseendetema för dina chattfönster
 settings.company.title.description=Ange ditt företagsnamn
 settings.company.title=Företagsnamn

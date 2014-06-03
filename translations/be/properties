@@ -403,7 +403,7 @@ right.main=Наведвальнікі
 right.other=Астатняе
 settings.chat.title.description=Напрыклад, назва аддзела Вашай кампаніі.
 settings.chat.title=Загаловак у чат-акне
-settings.chatstyle.description=Прадпрагляд усіх старонак кожнага стылю даступны <a href="themes.php">тут</a>
+settings.chatstyle.description=Прадпрагляд усіх старонак кожнага стылю даступны <a href="{0}">тут</a>
 settings.chatstyle=Выбярыце выгляд вашага чат акна
 settings.company.title.description=Увядзіце назву Вашай кампаніі
 settings.company.title=Назва кампаніі

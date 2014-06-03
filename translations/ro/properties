@@ -397,7 +397,7 @@ right.main=Principal
 right.other=Altele
 settings.chat.title.description=Denumirea companiei dvs spre exemplu.
 settings.chat.title=Titlu în fereastra de chat
-settings.chatstyle.description=Vizualizare preventivă pentru toate paginele de diferite tipuri sunt disponibile <a href="themes.php">here</a>
+settings.chatstyle.description=Vizualizare preventivă pentru toate paginele de diferite tipuri sunt disponibile <a href="{0}">here</a>
 settings.chatstyle=Selectaţi stilul pentru fereastra dvs de chat
 settings.company.title.description=Introduceţi numele companiei dvs
 settings.company.title=Denumirea companiei

@@ -363,7 +363,7 @@ right.main=Glavni izbornik
 right.other=Ostalo
 settings.chat.title.description=Na primjer, ime Vašeg poduzeća.
 settings.chat.title=Naslov prozora razgovora
-settings.chatstyle.description=Pregled svih stranica svakog stila je dostupan <a href="themes.php">ovdje</a>
+settings.chatstyle.description=Pregled svih stranica svakog stila je dostupan <a href="{0}">ovdje</a>
 settings.chatstyle=Odaberite stil prozora za razgovor
 settings.company.title.description=Upišite ime Vašeg poduzeća
 settings.company.title=Ime poduzeća

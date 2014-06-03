@@ -358,7 +358,7 @@ right.main=Inici
 right.other=Un altre
 settings.chat.title.description=Departament de la teva empresa per exemple.
 settings.chat.title=Títol a la finestra de xat
-settings.chatstyle.description=Previsualització per a totes les pàgines de cada estil està disponible <a href="themes.php">aquí</a>
+settings.chatstyle.description=Previsualització per a totes les pàgines de cada estil està disponible <a href="{0}">aquí</a>
 settings.chatstyle=Seleccioneu l'estil de les teves finestres de xat
 settings.company.title.description=Introduïu el nom de la teva empresa
 settings.company.title=Nom de l'empresa

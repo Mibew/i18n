@@ -411,7 +411,7 @@ right.main=Menü
 right.other=Egyéb
 settings.chat.title.description=Például a cég neve.
 settings.chat.title=A beszélgetés ablak címsora
-settings.chatstyle.description=Az összes oldal különböző stílusú előnézetei megnézhetők <a href="themes.php">itt</a>
+settings.chatstyle.description=Az összes oldal különböző stílusú előnézetei megnézhetők <a href="{0}">itt</a>
 settings.chatstyle=Üzenetküldő ablak stílusa
 settings.company.title.description=Írja be a cégének a nevét
 settings.company.title=A cég elnevezése

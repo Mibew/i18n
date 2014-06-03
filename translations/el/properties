@@ -397,7 +397,7 @@ right.main=Γενικά
 right.other=Άλλα
 settings.chat.title.description=Το όνομα της εταιρείας σας, για παράδειγμα.
 settings.chat.title=Τίτλος στο παράθυρο συνομιλίας
-settings.chatstyle.description=Προεπισκόπηση για όλες τις σελίδες του κάθε στυλ είναι διαθέσιμη <a href="themes.php">εδώ</a>
+settings.chatstyle.description=Προεπισκόπηση για όλες τις σελίδες του κάθε στυλ είναι διαθέσιμη <a href="{0}">εδώ</a>
 settings.chatstyle=Επιλέξτε στυλ για σας παράθυρα συνομιλίας
 settings.company.title.description=Εισάγετε τον τίτλο της εταιρείας σας
 settings.company.title=Τίτλος Εταιρείας

@@ -390,7 +390,7 @@ right.main=Посетители
 right.other=Други
 settings.chat.title.description=Например, име на Вашата компанията.
 settings.chat.title=Заглавие в чат прозореца
-settings.chatstyle.description=Преглед на всички страници и на всеки стил<a href="themes.php">тук</a>
+settings.chatstyle.description=Преглед на всички страници и на всеки стил<a href="{0}">тук</a>
 settings.chatstyle=Изберете вида на Вашия чат прозорец
 settings.company.title.description=Въведете името на Вашата фирма
 settings.company.title=Име на фирмата
