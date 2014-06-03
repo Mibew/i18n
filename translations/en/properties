@@ -256,6 +256,7 @@ menu.main=Main
 menu.operator=You are {0}
 menu.profile.content=You can change your personal information on this page.
 menu.profile=Profile
+menu.styles=Styles
 menu.translate=Localize
 menu.updates.content=Check for news and updates.
 menu.updates=Updates

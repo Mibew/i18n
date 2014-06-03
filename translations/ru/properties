@@ -257,6 +257,7 @@ menu.main=Главная
 menu.operator=Вы {0}
 menu.profile.content=На этой странице вы можете отредактировать свою персональную информацию.
 menu.profile=Профиль
+menu.styles=Стили
 menu.translate=Локализация
 menu.updates.content=Проверить наличие обновлений мессенджера.
 menu.updates=Обновления
