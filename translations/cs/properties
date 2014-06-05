@@ -74,11 +74,8 @@ confirm.take.message=Návštěvníkovi <span style="color:blue;">{0}</span> se j
 confirm.take.no=Ne, zavřít okno
 content.logoff=Odhlásit se.
 errors.captcha=Písmena, která jste napsali, neodpovídají těm na obrázku.
-errors.footer=</ul>
-errors.header=<b>Opravte chyby:</b><br/><ul>
-errors.prefix=<li class="error">
+errors.header=Opravte chyby:
 errors.required=Prosím vyplňte "{0}".
-errors.suffix=</li>
 errors.wrong_field=Prosím vyplňte "{0}" správně.
 form.field.ban_comment.description=Důvod blokování
 form.field.ban_comment=Komentář
@@ -89,7 +86,7 @@ form.field.login=Přihlašovací jméno
 form.field.message=Zpráva
 form.field.name=Vaše jméno
 form.field.password=Heslo
-harderrors.header=<b>Nelze vykonat:</b><br/><ul>
+harderrors.header=Nelze vykonat:
 leavemail.body=Máte zprávu od {0}:\n\n{2} \n\nE-mail návštěvníka: {1} \n{3} \n--- \nVáš site messenger
 leavemail.subject=Dotaz od {0}
 leavemessage.close=Zavřít

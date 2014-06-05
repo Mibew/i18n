@@ -115,12 +115,9 @@ errors.captcha=您输入的字符同图片上显示的不一致。
 errors.failed.uploading.file=无法上传档案“{0}”:“{1}”。
 errors.file.move.error=无法移动档案
 errors.file.size.exceeded=上传档案尺寸过大
-errors.footer=</ul>
-errors.header=修正错误:<br/><ul>
+errors.header=修正错误:
 errors.invalid.file.type=无效的档案格式
-errors.prefix=<li class="error">
 errors.required=请输入“{0}”。
-errors.suffix=</li>
 errors.wrong_field=请输入“{0}”正确。
 error.no_password=这是您第一次登录且您的密码为空。为了安全起见，你必须设置密码。
 error.no_password.visit_profile=访问您的<a href="{0}">个人资料</a>。
@@ -164,7 +161,7 @@ form.field.password=密码
 form.field.password_confirm.description=再输入一次密码确保密码正确。
 form.field.password_confirm=确认密码
 form.field.translation=翻译
-harderrors.header=无法执行:<br/><ul>
+harderrors.header=无法执行:
 install.0.app=应用程序路径是 {0}
 install.0.package=Mibew组件有效。
 install.0.php=PHP 版本 {0}

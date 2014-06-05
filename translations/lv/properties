@@ -57,11 +57,8 @@ common.asterisk_explanation=<b><font class="red">*</font></b> - laukumi, obligā
 company.title=Mibew Messenger Community
 content.history=Meklēšana pēc dialogu vēsturi
 content.logoff=Atstāt sistēmu.
-errors.footer=</ul>
-errors.header=<b>Izlabojiet kļūdas:</b><br/><ul>
-errors.prefix=<li class="error">
+errors.header=Izlabojiet kļūdas:
 errors.required=Aizpildiet laukumu "{0}".  
-errors.suffix=</li>
 errors.wrong_field=Nepareizi aizpildīts laukums "{0}"
 form.field.agent_commonname.description=Zem šī vārda Jūs redzēs apmeklētāji no citām valstīm.
 form.field.agent_commonname=Internacionālais vārds (ar latiņu burtiem)
