@@ -155,9 +155,6 @@ form.field.password_confirm.description=تأكيد كلمة المرور الج�
 form.field.password_confirm=التأكيد
 form.field.translation=الترجمة
 harderrors.header=<b>لا يمكن التنفبذ:</b><br/><ul>
-image.button.login=/locales/ar/images/login.gif
-image.button.save=/locales/ar/images/save.gif
-image.button.search=/locales/ar/images/search.gif
 install.1.connected=تم الإتصال بخادم قاعدة البيانات MySQL الإصدار {0}
 install.2.create=إنشاء قاعدة البيانات "{0}"
 install.2.db_exists=قاعدة البينات "{0}" تم إنشائها.
