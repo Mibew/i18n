@@ -53,7 +53,7 @@ clients.queue.chat=Apmeklētāji dialogos
 clients.queue.prio=Apmeklētāju rinda ar augstu prioritātes līmeņi
 clients.queue.wait=Pirmo reizi operatoru gaidījušie
 clients.title=Gaidījušo apmeklētāju saraksts
-common.asterisk_explanation=<b><font class="red">*</font></b> - laukumi, obligātai aizpildīšanai
+common.asterisk_explanation=<span class="required">*</span> - laukumi, obligātai aizpildīšanai
 company.title=Mibew Messenger Community
 content.history=Meklēšana pēc dialogu vēsturi
 content.logoff=Atstāt sistēmu.

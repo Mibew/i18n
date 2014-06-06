@@ -366,7 +366,7 @@ updates.title=بروزرسانی‌ها
 chat.window.toolbar.toggle_sound=فعال/غیر فعال نمودن صدا
 chat.window.toolbar.refresh=تازه کردن
 menu.notifications=اعلان ها
-common.asterisk_explanation=<b><span style="font-size:8.0pt;color:red">*</span></b> - موارد الزامی
+common.asterisk_explanation=<span class="required">*</span> - موارد الزامی
 menu.notifications.content=تمام اطلاعیه ها ارسال شده توسط پیام رسان.
 page_search.intro=جستجو در چت برای یک کاربر مشخص یا یک عبارت خاص را در پیام ها.
 page_analysis.full.text.search=جستجوی نام کاربری و یا متن پیام :

@@ -99,7 +99,7 @@ clients.queue.chat=对话中的访客
 clients.queue.prio=优先等候访客
 clients.queue.wait=第一次等候客服
 clients.title=列出等候中访客
-common.asterisk_explanation=<font class="red">*</font> - 必填字段
+common.asterisk_explanation=<span class="required">*</span> - 必填字段
 company.title=网页即时通讯
 confirm.take.head=更换客服
 confirm.take.message=访客 <span style="color:blue;">{0}</span> 已经由 <span style="color:green;">{1}</span> 服务。您真的确定您要与访客对谈吗?

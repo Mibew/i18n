@@ -96,7 +96,7 @@ clients.queue.chat=Aktive samtaler
 clients.queue.prio=Prioritert samtalekø
 clients.queue.wait=Venter på kundebehandler for første gang
 clients.title=Ventende besøkende
-common.asterisk_explanation=<b><span style='font-size:8.0pt;color:red'>*</span></b> - obligatoriske felt
+common.asterisk_explanation=<span class="required">*</span> - obligatoriske felt
 company.title=Mibew Messenger Chat
 confirm.take.head=Endre kundebehandler
 confirm.take.message=Den besøkende <span style="color:blue;">{0}</span> blir allerede hjulpet av <span style="color:green;">{1}</span>.<br/> Er du sikker på at du vil opprette en ny samtale?

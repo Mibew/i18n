@@ -96,7 +96,7 @@ clients.queue.chat=Lankytojai pokalbiuose
 clients.queue.prio=Prioritetinė lankytojų eilė
 clients.queue.wait=Laukiantys operatoriaus pirmą kartą
 clients.title=Laukiančių lankytojų sąrašas
-common.asterisk_explanation=<b><span style='font-size:8.0pt;color:red'>*</span></b> - laukai, kuriuos būtina užpildyti
+common.asterisk_explanation=<span class="required">*</span> - laukai, kuriuos būtina užpildyti
 company.title=Mibew Messenger Community
 confirm.take.head=Pakeisti operatorių
 confirm.take.message=Su lankytoju <span style="color:blue;">{0}</span> jau bendrauja <span style="color:green;">{1}</span>.<br/> Ar tikrai norite pakeisti jį?

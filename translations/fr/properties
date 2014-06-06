@@ -90,7 +90,7 @@ clients.queue.chat=Visiteurs en entrevue
 clients.queue.prio=File des visiteurs prioritaires
 clients.queue.wait=En attente d'un opérateur pour la 1ère fois
 clients.title=Liste des visiteurs en attente
-common.asterisk_explanation=<b><font class="red">*</font></b> - champs obligatoires
+common.asterisk_explanation=<span class="required">*</span> - champs obligatoires
 company.title=Communauté Mibew Messager
 confirm.take.head=Changez d'opérateur
 confirm.take.message=Le Visiteur <span style="color:blue;">{0}</span> est déjà assisté par <span style="color:green;">{1}</span>.<br/> Etes-vous sûr de vouloir démarrer une discussion avec ce visiteur?
