@@ -99,7 +99,7 @@ clients.title=Laukiančių lankytojų sąrašas
 common.asterisk_explanation=<span class="required">*</span> - laukai, kuriuos būtina užpildyti
 company.title=Mibew Messenger Community
 confirm.take.head=Pakeisti operatorių
-confirm.take.message=Su lankytoju <span style="color:blue;">{0}</span> jau bendrauja <span style="color:green;">{1}</span>.<br/> Ar tikrai norite pakeisti jį?
+confirm.take.message=Su lankytoju <span class="visitor">{0}</span> jau bendrauja <span class="operator">{1}</span>.<br/> Ar tikrai norite pakeisti jį?
 confirm.take.no=Ne, uždaryti langą
 confirm.take.yes=Taip, tikrai
 content.blocked=Čia galima apsisaugoti nuo nepageidaujamų laiškų ir kenksmingų lankytojų.
@@ -172,7 +172,7 @@ install.title=Diegimas
 install.updatedb=Prašome paleisti <a href="{0}">Duomenų bazių diegimo vedlį</a>.
 installed.login_link=Įeiti į sistemą
 installed.message=<b>Diegimas sėkmingai baigtas. </b>
-installed.notice=Jūs galite įeiti į sistemą kaip <b>admin</b> su tusčiu slaptažodžio įvedimo lauku.<br/><br/><font color="#c13030"><b>!!! Saugumo sumetimais prašome iš serverio pašalinti katalogą {0} ir pakeiskite slaptažodį.</b></font>
+installed.notice=Jūs galite įeiti į sistemą kaip <b>admin</b> su tusčiu slaptažodžio įvedimo lauku.<br/><br/><span class="warning">!!! Saugumo sumetimais prašome iš serverio pašalinti katalogą {0} ir pakeiskite slaptažodį.</span>
 lang.choose=Pasirinkite kalbą
 leavemail.body= Kadangi nebuvo laisvų operatorių Lankytojas '{0}' paliko pranešimą:\n\n{2}\n\nЕmail: {1}\n{3}\n--- \n. Su Pagarba,\nJūsų Mibew
 leavemail.subject=Klausimas nuo {0}

@@ -99,7 +99,7 @@ clients.title=Daftar menunggu pengunjung
 common.asterisk_explanation=<span class="required">*</span> - wajib diisi
 company.title=Mibew Messenger Community
 confirm.take.head=Ubah operator
-confirm.take.message=Pengunjung <span style="color:blue;">{0}</span> telah dibantu oleh <span style="color:green;">{1}</span>.<br/> Apakah Anda benar-benar yakin ingin memulai chatting pengunjung?
+confirm.take.message=Pengunjung <span class="visitor">{0}</span> telah dibantu oleh <span class="operator">{1}</span>.<br/> Apakah Anda benar-benar yakin ingin memulai chatting pengunjung?
 confirm.take.no=Tidak, menutup jendela
 confirm.take.yes=Ya, saya yakin
 content.blocked=Di sini Anda dapat bertahan dari pengunjung yang berbahaya.
@@ -187,7 +187,7 @@ install.title=Instalasi
 install.updatedb=Tolong, jalankan wizard <a href="{0}">Update</a> untuk menyesuaikan database Anda.
 installed.login_link=Lanjutkan ke halaman login
 installed.message=<b>Aplikasi berhasil diinstal.</b>
-installed.notice=Anda bisa logon sebagai <b>admin</b> dengan sandi kosong.<br/> <br/><font color="#c13030"><b>! Untuk alasan keamanan, harap mengubah sandi Anda segera dan menghapus folder {0} dari server Anda.</b></font>
+installed.notice=Anda bisa logon sebagai <b>admin</b> dengan sandi kosong.<br/> <br/><span class="warning">! Untuk alasan keamanan, harap mengubah sandi Anda segera dan menghapus folder {0} dari server Anda.</span>
 lang.choose=Pilih bahasa Anda
 leavemail.body=Anda memiliki pesan dari {0}:\n\n{2}\n\nEmailnya: {1}\n{3}\n--- \nSitus messenger anda
 leavemail.subject=Pertanyaan dari {0}

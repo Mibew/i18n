@@ -99,7 +99,7 @@ clients.title=Lista över väntande besökare
 common.asterisk_explanation=<span class="required">*</span> - Obligatoriska fält
 company.title=Mibew Messenger Community
 confirm.take.head=Byt operatör
-confirm.take.message=Besökare <span style="color:blue;">{0}</span> får redan hjälp av <span style="color:green;">{1}</span>.<br/> Är du säker på att du vill börja chatta med besökaren?
+confirm.take.message=Besökare <span class="visitor">{0}</span> får redan hjälp av <span class="operator">{1}</span>.<br/> Är du säker på att du vill börja chatta med besökaren?
 confirm.take.no=Nej, stäng fönstret
 confirm.take.yes=Ja, jag är säker
 content.blocked=Här kan du blockera otrevliga besökare.
@@ -174,7 +174,7 @@ install.title=Installation
 install.updatedb=Var god kör <a href="{0}">Uppdateringsguiden</a> för att justera.
 installed.login_link=Gå till inloggnings sidan
 installed.message=<b>Applikationen installerades korrekt</b>
-installed.notice=Du kan logga in som<b>admin</b> med ett tomt lösenord<br/><br/><font color="#c13030"><b>!!! För säkerhetsskäl så bör du byta lösenord och ta bort platsen {0} från din server katalog</b></font>
+installed.notice=Du kan logga in som<b>admin</b> med ett tomt lösenord<br/><br/><span class="warning">!!! För säkerhetsskäl så bör du byta lösenord och ta bort platsen {0} från din server katalog</span>
 lang.choose=Välj ditt språk
 leavemail.body=Du har ett meddelande från {0}:\n\n{2}\n\nBesökares epost: {1}\n{3}\n--- \nDin web messenger
 leavemail.subject=Fråga från {0}

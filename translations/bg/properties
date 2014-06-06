@@ -99,7 +99,7 @@ clients.title=Списък с очакващи посетители
 common.asterisk_explanation=<span class="required">*</span> - задължителни полета
 company.title=Mibew Messenger Community
 confirm.take.head=Смяна на оператор
-confirm.take.message=С посетителят <span style="color:blue;">{0}</span> вече говори <span style="color:green;">{1}</span>.<br/>Вие сигурни ли сте, че искате да го смените?
+confirm.take.message=С посетителят <span class="visitor">{0}</span> вече говори <span class="operator">{1}</span>.<br/>Вие сигурни ли сте, че искате да го смените?
 confirm.take.no=Не, затвори прозореца
 confirm.take.yes=Да, сигурен съм
 content.blocked=Тук може да се защитите от спам и нелоялни посетители.
@@ -174,7 +174,7 @@ install.title=Инсталация
 install.updatedb=Моля, стартирайте <a href="{0}">обновяване</a>за да настроите базата данни.
 installed.login_link=Влез в системата
 installed.message=<b>Инсталацията е завършена успешно.</b>
-installed.notice=Можете да влизане като <b>администратор</b> с празна парола.<br/><br/><font color="#c13030"><b>!!! От съображения за сигурност, моля, променете паролата си незабавно и премахнете {0} папката от Вашия сървър.</b></font>
+installed.notice=Можете да влизане като <b>администратор</b> с празна парола.<br/><br/><span class="warning">!!! От съображения за сигурност, моля, променете паролата си незабавно и премахнете {0} папката от Вашия сървър.</span>
 lang.choose=Изберете Вашия език
 leavemail.body=Вие имате съобщение от '{0}':\n\n{2}\n\nЕmail: {1}\n{3}\n--- \nВаш месинджър
 leavemail.subject=Въпрос от {0}

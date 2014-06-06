@@ -99,7 +99,7 @@ clients.title=Lista de visitantes en espera
 common.asterisk_explanation=<span class="required">*</span> - campos obligatorios
 company.title=Comunidad Mibew Messenger
 confirm.take.head=Cambiar operador
-confirm.take.message=Visitante <span style="color:blue;">{0}</span> es actualmente servido por<span style="color:green;">{1}</span>.<br/> Esta usted seguro que quiere iniciar conversación con los visitantes?
+confirm.take.message=Visitante <span class="visitor">{0}</span> es actualmente servido por<span class="operator">{1}</span>.<br/> Esta usted seguro que quiere iniciar conversación con los visitantes?
 confirm.take.no=No, cierre la ventana
 confirm.take.yes=Sí, Estoy seguro
 content.blocked=Aquí puede defenderse de visitante maliciosos.
@@ -187,7 +187,7 @@ install.title=Instalación
 install.updatedb=Por favor, ejecuta <a href="{0}">el Asistente de Actualización</a> para ajustar tu base de datos.
 installed.login_link=Proceda a la página de acceso
 installed.message=<b>Aplicación instalada con éxito.</b>
-installed.notice=Puedes registrarte como <b>admin</b> sin contraseña.<br/><br/><font color="#c13030"><b>¡¡¡ Por razones de seguridad, porfavor crea una contraseña inmediatamente y borra el directorio {0} de tu servidor !!!.</b></font>
+installed.notice=Puedes registrarte como <b>admin</b> sin contraseña.<br/><br/><span class="warning">¡¡¡ Por razones de seguridad, porfavor crea una contraseña inmediatamente y borra el directorio {0} de tu servidor !!!.</span>
 lang.choose=Selecciona tu idioma
 leavemail.body=Tiene un mensaje de{0}:\n\n{2}\n\nEste email: {1}\n{3}\n--- \nAtentamente sitio Messenger
 leavemail.subject=Pregunta desde {0}

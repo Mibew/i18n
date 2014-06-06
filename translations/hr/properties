@@ -91,7 +91,7 @@ clients.title=Lista posjetitelja koji čekaju
 common.asterisk_explanation=<span class="required">*</span> - obavezna polja
 company.title=Mibew Messenger Community
 confirm.take.head=Promijeni operatora
-confirm.take.message=Posjetitelju <span style="color:blue;">{0}</span> već pomaže <span style="color:green;">{1}</span>.<br/> Jeste li sigurni da želite započeti razgovor sa posjetiteljem?
+confirm.take.message=Posjetitelju <span class="visitor">{0}</span> već pomaže <span class="operator">{1}</span>.<br/> Jeste li sigurni da želite započeti razgovor sa posjetiteljem?
 confirm.take.no=Ne, zatvori prozor
 confirm.take.yes=Da, siguran/na sam
 content.blocked=Ovdje se možete obraniti od zlonamjernih posjetitelja.
@@ -163,7 +163,7 @@ install.title=Instalacija
 install.updatedb=Molimo, pokrenite <a href="{0}">Čarobnjaka za ažuriranje</a> kako biste prilagodili bazu podataka.
 installed.login_link=Nastavite na stranicu prijave
 installed.message=<b>Aplikacija je uspješno instalirana.</b>
-installed.notice=Možete se prijaviti kao <b>admin</b> bez lozinke.<br/><br/><font color="#c13030"><b>!!! Iz sigurnosnih razloga, molimo da odmah promijenite lozinku i izbrišete {0} folder sa servera.</b></font>
+installed.notice=Možete se prijaviti kao <b>admin</b> bez lozinke.<br/><br/><span class="warning">!!! Iz sigurnosnih razloga, molimo da odmah promijenite lozinku i izbrišete {0} folder sa servera.</span>
 lang.choose=Odaberite jezik
 leavemail.body=Imate poruku od {0}: \n\n{2} \n\nNjegov/njezin email: {1} \n{3} \n--- \nVaš Mibew Messenger
 leavemail.subject=Pitanje od {0}

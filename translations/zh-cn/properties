@@ -102,7 +102,7 @@ clients.title=列出等候中访客
 common.asterisk_explanation=<span class="required">*</span> - 必填字段
 company.title=网页即时通讯
 confirm.take.head=更换客服
-confirm.take.message=访客 <span style="color:blue;">{0}</span> 已经由 <span style="color:green;">{1}</span> 服务。您真的确定您要与访客对谈吗?
+confirm.take.message=访客 <span class="visitor">{0}</span> 已经由 <span class="operator">{1}</span> 服务。您真的确定您要与访客对谈吗?
 confirm.take.no=不，关闭窗口
 confirm.take.yes=是，我确定
 content.blocked=封锁恶意使用访客，进行IP管理。
@@ -196,7 +196,7 @@ install.title=安装
 install.updatedb=请点击 <a href="{0}">更新向导</a> 来调整您的数据库。
 installed.login_link=继续到登入页面
 installed.message=程序安装完成。
-installed.notice=您可以用 admin 名称及空的密码来登入。<br/><br/><font color="#c13030">!!! 基于安全性考虑，请立即更改您的密码并删除网站 {0} 数据夹。</font>
+installed.notice=您可以用 admin 名称及空的密码来登入。<br/><br/><span class="warning">!!! 基于安全性考虑，请立即更改您的密码并删除网站 {0} 数据夹。</span>
 lang.choose=选择您的语言
 leavemail.body=您有讯息来自 {0}:\n\n{2}\n\n电子邮件: {1}\n{3}\n--- \n来自网站实时讯息
 leavemail.subject=问题来自 {0}

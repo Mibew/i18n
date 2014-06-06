@@ -99,7 +99,7 @@ clients.title=Lijst van wachtende bezoekers
 common.asterisk_explanation=<span class="required">*</span> - verplichte velden
 company.title=Mibew Messenger Community
 confirm.take.head=Wissel van medewerker
-confirm.take.message=Bezoeker <span style="color:blue;">{0}</span> wordt al geholpen door <span style="color:green;">{1}</span>.<br/> Weet u zeker dat u met deze bezoeker wilt gaan chatten?
+confirm.take.message=Bezoeker <span class="visitor">{0}</span> wordt al geholpen door <span class="operator">{1}</span>.<br/> Weet u zeker dat u met deze bezoeker wilt gaan chatten?
 confirm.take.no=Nee, sluit het venster
 confirm.take.yes=Ja, ik weet het zeker
 content.blocked=Hier kunt u spammers / stalkers afweren.
@@ -174,7 +174,7 @@ install.title=Installatie
 install.updatedb=Aub de <a href="{0}">Update wizard</a> draaien om uw database aan te passen.
 installed.login_link=Ga door naar de inlogpagina
 installed.message=<b>Applicatie met succes geïnstalleerd.</b>
-installed.notice=U kunt inloggen als <b>admin</b> zonder wachtwoord.<br/><br/><font color="#c13030"><b>!!! Verander aub uw wachtwoord onmiddelijk en verwijder de {0} map van uw server.</b></font>
+installed.notice=U kunt inloggen als <b>admin</b> zonder wachtwoord.<br/><br/><span class="warning">!!! Verander aub uw wachtwoord onmiddelijk en verwijder de {0} map van uw server.</span>
 lang.choose=Kies uw taal
 leavemail.body=U heeft een bericht ontvangen van {0}:\n\n{2}\n\nEmail: {1}\n{3}\n--- \nUw sitemessenger
 leavemail.subject=Vraag van {0}

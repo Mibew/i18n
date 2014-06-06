@@ -102,7 +102,7 @@ clients.title=列出等候中訪客
 common.asterisk_explanation=<span class="required">*</span> - 必填字段
 company.title=網頁即時通訊
 confirm.take.head=更換客服
-confirm.take.message=訪客 <span style="color:blue;">{0}</span> 已經由 <span style="color:green;">{1}</span> 服務。您真的確定您要與訪客對談嗎?
+confirm.take.message=訪客 <span class="visitor">{0}</span> 已經由 <span class="operator">{1}</span> 服務。您真的確定您要與訪客對談嗎?
 confirm.take.no=不，關閉窗口
 confirm.take.yes=是，我確定
 content.blocked=封鎖惡意使用訪客，進行IP管理。
@@ -196,7 +196,7 @@ install.title=安裝
 install.updatedb=請點擊 <a href="{0}">更新嚮導</a> 來調整您的資料庫。
 installed.login_link=繼續到登入頁面
 installed.message=程式安裝完成。
-installed.notice=您可以用 admin 名稱及空的密碼來登入。<br/><br/><font color="#c13030">!!! 基於安全性考慮，請立即更改您的密碼並刪除網站 {0} 數據夾。</font>
+installed.notice=您可以用 admin 名稱及空的密碼來登入。<br/><br/><span class="warning">!!! 基於安全性考慮，請立即更改您的密碼並刪除網站 {0} 數據夾。</span>
 lang.choose=選擇您的語言
 leavemail.body=您有訊息來自 {0}:\n\n{2}\n\n電子郵件: {1}\n{3}\n--- \n來自網站即時訊息
 leavemail.subject=問題來自 {0}

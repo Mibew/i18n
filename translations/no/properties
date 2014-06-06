@@ -99,7 +99,7 @@ clients.title=Ventende besøkende
 common.asterisk_explanation=<span class="required">*</span> - obligatoriske felt
 company.title=Mibew Messenger Chat
 confirm.take.head=Endre kundebehandler
-confirm.take.message=Den besøkende <span style="color:blue;">{0}</span> blir allerede hjulpet av <span style="color:green;">{1}</span>.<br/> Er du sikker på at du vil opprette en ny samtale?
+confirm.take.message=Den besøkende <span class="visitor">{0}</span> blir allerede hjulpet av <span class="operator">{1}</span>.<br/> Er du sikker på at du vil opprette en ny samtale?
 confirm.take.no=Nei, lukk dette vinduet
 confirm.take.yes=Ja, jeg er sikker
 content.blocked=Her kan du blokkere besøkende!
@@ -187,7 +187,7 @@ install.title=Innstallasjon
 install.updatedb=Vennligst, kjør <a href="{0}">Oppdateringsveiviser</a> for å justere databasen.
 installed.login_link=Fortsett til innlogging.
 installed.message=<b>Programmet ble vellykket installert.</b>
-installed.notice=Du kan logge på som <b>admin</b> med blankt passord.<br/><br/><font color="#c13030"><b>!!! Av sikkerhetsmessige grunner, vennligst endre ditt passord nå, og fjern {0} mappen fra serveren.</b></font>
+installed.notice=Du kan logge på som <b>admin</b> med blankt passord.<br/><br/><span class="warning">!!! Av sikkerhetsmessige grunner, vennligst endre ditt passord nå, og fjern {0} mappen fra serveren.</span>
 lang.choose=Velg språk
 leavemail.body=Du har en melding fra {0}:\n\n{2}\n\ne-post {1}\n{3}\n--- \nMibew Messenger Chat
 leavemail.subject=Spørsmål fra {0}

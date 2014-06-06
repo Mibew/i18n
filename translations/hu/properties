@@ -99,7 +99,7 @@ clients.title=Várakozó ügyfelek listája
 common.asterisk_explanation=<span class="required">*</span> - kötelező mező
 company.title=Mibew Messenger Community
 confirm.take.head=Operátor váltása
-confirm.take.message=Az ügyfélnek<span style="color:blue;">{0}</span>már segít <span style="color:green;">{1}</span>.<br/> Biztos vagy benne, hogy beszélni akarsz az ügyféllel?
+confirm.take.message=Az ügyfélnek<span class="visitor">{0}</span>már segít <span class="operator">{1}</span>.<br/> Biztos vagy benne, hogy beszélni akarsz az ügyféllel?
 confirm.take.no=Nem, ablak bezárása
 confirm.take.yes=Igen, biztos vagyok benne
 content.blocked=Itt tud védekezni a rosszindulatú ügyfelektől.
@@ -187,7 +187,7 @@ install.title=Installálás
 install.updatedb=Futtassa a <a href="{0}">Frissítés varázslót</a> az adatbázis beállításához.
 installed.login_link=Tovább a bejelentkező oldalra
 installed.message=<b>Az alkalmazás telepítése sikeresen befejeződött.</b>
-installed.notice=Bejelentkezhet <b>admin</b> felhasználónévvel, jelszó nélkül.<br/><br/><font color="#c13030"><b>!!! Biztonsági okokból kérem változtassa meg a jelszavát és távolítsa el a {0} mappát a szerverről.</b></font>
+installed.notice=Bejelentkezhet <b>admin</b> felhasználónévvel, jelszó nélkül.<br/><br/><span class="warning">!!! Biztonsági okokból kérem változtassa meg a jelszavát és távolítsa el a {0} mappát a szerverről.</span>
 lang.choose=Nyelv kiválasztása
 leavemail.body=Üzenete érkezett {0} -tól: {2} E-mail: {1} {3} --- Az oldalad üzenetküldője
 leavemail.subject=Kérdés {0} -tól

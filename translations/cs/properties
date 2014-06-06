@@ -70,7 +70,7 @@ chat.window.toolbar.refresh=Aktualizovat
 common.asterisk_explanation=<span class="required">*</span> - povinné položky
 company.title=Mibew Messenger Community
 confirm.take.head=Změna operátora
-confirm.take.message=Návštěvníkovi <span style="color:blue;">{0}</span> se již věnuje <span style="color:green;">{1}</span>.<br/> Jste si jisti, že chcete zahájit chat s návštěvníkem?
+confirm.take.message=Návštěvníkovi <span class="visitor">{0}</span> se již věnuje <span class="operator">{1}</span>.<br/> Jste si jisti, že chcete zahájit chat s návštěvníkem?
 confirm.take.no=Ne, zavřít okno
 content.logoff=Odhlásit se.
 errors.captcha=Písmena, která jste napsali, neodpovídají těm na obrázku.

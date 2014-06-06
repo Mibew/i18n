@@ -97,7 +97,7 @@ clients.title=Liste over besøgende der venter
 common.asterisk_explanation=<span class="required">*</span> - påkrævede felter
 company.title=Mibew Messenger Community
 confirm.take.head=Vælg ny supporter
-confirm.take.message=Besøgende <span style="color:blue;">{0}</span> bliver allerede hjulpet af <span style="color:green;">{1}</span>.<br/> Er du sikker på, at du vil igangsætte endnu en chat session?
+confirm.take.message=Besøgende <span class="visitor">{0}</span> bliver allerede hjulpet af <span class="operator">{1}</span>.<br/> Er du sikker på, at du vil igangsætte endnu en chat session?
 confirm.take.no=Nej, luk vinduet
 confirm.take.yes=Ja, jeg er sikker
 content.history=Søg i tidligere dialoger

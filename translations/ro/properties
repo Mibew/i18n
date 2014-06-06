@@ -99,7 +99,7 @@ clients.title=Lista vizitatorilor in asteptare
 common.asterisk_explanation=<span class="required">*</span> - domenii obligatorii
 company.title=Mibew Messenger Community
 confirm.take.head=Schimbati operatorul
-confirm.take.message=Vizitatorul <span style="color:blue;">{0}</span> deja este asistat de <span style="color:green;">{1}</span>.<br/>. Sunteti sigur ca vreti sa incepeti chat cu vizitatorul?
+confirm.take.message=Vizitatorul <span class="visitor">{0}</span> deja este asistat de <span class="operator">{1}</span>.<br/>. Sunteti sigur ca vreti sa incepeti chat cu vizitatorul?
 confirm.take.no=Nu, inchideti fereastra
 confirm.take.yes=Da, sunt sigur
 content.blocked=Aici poti sa te protejezi de vizitatorii nedoriti.
@@ -174,7 +174,7 @@ install.title=Instalare
 install.updatedb=Vă rugăm, accesaţi <a href="{0}">Update wizard</a> pentru a ajusta baza de date.
 installed.login_link=Procesare la pagina de întrare
 installed.message=<b>Aplicaţiile de instalare cu succes.</b>
-installed.notice=Puteţi intra ca <b>admin</b> cu parola libera.<br/><br/><font color="#c13030"><b>!!! Penru securitate, vă rugăm să schimbaţi parola imediatşi sa schimbaţi fişierul {0} din serverul dumneavoastră.</b></font>
+installed.notice=Puteţi intra ca <b>admin</b> cu parola libera.<br/><br/><span class="warning">!!! Penru securitate, vă rugăm să schimbaţi parola imediatşi sa schimbaţi fişierul {0} din serverul dumneavoastră.</span>
 lang.choose=Alegeţi limba
 leavemail.body=Dumneavoastră aveţi mesaj de la {0} :\n\n{2} \n\nEmail-ul este: {1} \n{3} \n---\nMesagerul site-ului dvs
 leavemail.subject=Întrebare de la {0}

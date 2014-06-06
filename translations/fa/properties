@@ -91,7 +91,7 @@ clients.queue.wait=در انتظار چت با متصدی برای اولین ب
 clients.title=لیست صف کاربران
 company.title=Mibew جامعه پیام رسان
 confirm.take.head=تغییر متصدی
-confirm.take.message=کاربر <span style="color:blue;">{0}</span> در حال چت با <span style="color:green;">{1}</span>.<br/>میباشد، آیا شما از ورود به چت با این کاربر اطمینان دارید؟
+confirm.take.message=کاربر <span class="visitor">{0}</span> در حال چت با <span class="operator">{1}</span>.<br/>میباشد، آیا شما از ورود به چت با این کاربر اطمینان دارید؟
 confirm.take.no=خیر، پنجره بسته شود
 confirm.take.yes=بله، مطمئن هستم
 content.history=جستجو در گزارشات چت.
@@ -531,7 +531,7 @@ settings.enablejabber.description=اطلاع رسانی از طریق مسنجر
 settings.enablepresurvey=فعال کردن "بررسی پیش-چت"
 install.connection.error=متصل نشد. لطفا تنظیمات سرور در config.php را چک کنید. خطا: {0}
 install.check_permissions=مجوز ناکافی فایل {0}
-installed.notice=شما میتوانید با نام کاربری <b>admin</b> و بدون پسورد وارد شوید.<br/><br/><font color="#c13030"><b> به دلایل امنیتی هرچه سریعتر نسبت به تغییر پسورد اقدام نموده و فولدر {0} را از سرور حذف نمایید.</b></font>
+installed.notice=شما میتوانید با نام کاربری <b>admin</b> و بدون پسورد وارد شوید.<br/><br/><span class="warning"> به دلایل امنیتی هرچه سریعتر نسبت به تغییر پسورد اقدام نموده و فولدر {0} را از سرور حذف نمایید.</span>
 install.updatedb=لطفا <a href="{0}">بروز رسانی نصب کننده</a> را کلیک کنید تا پایگاه داده شما همسان گردد.
 installed.login_link=ادامه به صفحه ورود
 installed.message=<b>برنامه با موفقیت نصب گردید.</b>

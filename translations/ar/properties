@@ -99,7 +99,7 @@ clients.title=قائمة الزوار المنتظرين
 common.asterisk_explanation=<span class="required">*</span> - حقل إلزامي
 company.title=Mibew Messenger مجموعة
 confirm.take.head=تغيير مقدم الخدمة
-confirm.take.message=الزائر <span style="color:blue;">{0}</span> يتحادث مع مقدم الخدمة<span style="color:green;">{1}</span>.<br/>هل ترغب في بدأ المحادثة مع الزائر؟
+confirm.take.message=الزائر <span class="visitor">{0}</span> يتحادث مع مقدم الخدمة<span class="operator">{1}</span>.<br/>هل ترغب في بدأ المحادثة مع الزائر؟
 confirm.take.no=لا,أغلق هذه النافذة
 confirm.take.yes=نعم , أنا متأكد
 content.blocked=هنا تستطيع الحماية من الزوار المزعجين.
@@ -174,7 +174,7 @@ install.title=تنصيب البرنامج
 install.updatedb=من فضلك, إبدأ <a href="{0}">معالج التحديث</a> لإعداد قاعدة البيانات.
 installed.login_link=إنتقل إلى صفحة تسجيل الدخول
 installed.message=<b>تم تنصيب البرنامج بنجاح.</b>
-installed.notice=تستطيع الآن تسجيل الدخوب كـ admin بدون كلمة مرور.<br/><br/><font color="#c13030"><b>!!! يجب تغيير كلمة المرور بعد تسجيل الدخول مباشرة ، وحذف المجلد {0} للحماية .</b></font>
+installed.notice=تستطيع الآن تسجيل الدخوب كـ admin بدون كلمة مرور.<br/><br/><span class="warning">!!! يجب تغيير كلمة المرور بعد تسجيل الدخول مباشرة ، وحذف المجلد {0} للحماية .</span>
 lang.choose=أختر لغتك
 leavemail.body=أنت تملك رسالة من {0}:\n\n{2}\n\nبريده الإلكتروني : {1}\n{3}\n--- \nموقع المحادثة الخاص بك
 leavemail.subject=استفسار من {0}

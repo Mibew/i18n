@@ -99,7 +99,7 @@ clients.title=Lista oczekujących użytkowników
 common.asterisk_explanation=<span class="required">*</span> - pola wymagane
 company.title=Społecznośc Mibew Komunikatora
 confirm.take.head=Zmień Operatora
-confirm.take.message=Użytkownik <span style="color:blue;">{0}</span> jest już obsługiwany przez <span style="color:green;">{1}</span>.<br/> Na pewno chcesz rozpocząć rozmowę z tym użytkownikiem?
+confirm.take.message=Użytkownik <span class="visitor">{0}</span> jest już obsługiwany przez <span class="operator">{1}</span>.<br/> Na pewno chcesz rozpocząć rozmowę z tym użytkownikiem?
 confirm.take.no=Nie, zamknij okno
 confirm.take.yes=Tak, Jestem tego pewny
 content.blocked=Tutaj możesz powstrzymać niechcianych użytkowników.
@@ -187,7 +187,7 @@ install.title=Instalacja
 install.updatedb=Uruchom proszę, <a href="{0}">Kreatora aktualizacji</a> aby ustawić swoją bazę danych.
 installed.login_link=Przejdź do strony logowania
 installed.message=<b>Aplikacja została pomyślnie zainstalowana.</b>
-installed.notice=Możesz się teraz zalogować jako <b>admin</b> z pustym polem hasła.<br/><br/><font color="#c13030"><b>!!! Z przyczyn bezpieczeństwa, zmień natychmiast swoje hasło oraz usuń folder {0} ze swojego serwera.</b></font>
+installed.notice=Możesz się teraz zalogować jako <b>admin</b> z pustym polem hasła.<br/><br/><span class="warning">!!! Z przyczyn bezpieczeństwa, zmień natychmiast swoje hasło oraz usuń folder {0} ze swojego serwera.</span>
 lang.choose=Wybierz swój język
 leavemail.body=Masz nową wiadomość od {0}:\n\n{2}\n\nJego email: {1}\n{3}\n--- \nTwój Web Komunikator
 leavemail.subject=Zapytanie od {0}
