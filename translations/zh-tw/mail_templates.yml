@@ -1,0 +1,9 @@
+user_history:
+    subject: '網站即時訊息: 對話紀錄'
+    body: "{0}!\n\n您的對話紀錄如下: \n\n{1}\n--- \n祝好，\n網站即時訊息"
+password_recovery:
+    subject: 重置您的密碼
+    body: "您好，{0}\n\n請點擊下麵的鏈接，或將其複製並粘貼到您的流覽器地址欄中：{1}"
+leave_message:
+    subject: '問題來自 {0}'
+    body: "您有訊息來自 {0}:\n\n{2}\n\n電子郵件: {1}\n{3}\n--- \n來自網站即時訊息"

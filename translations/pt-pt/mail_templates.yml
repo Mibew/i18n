@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: Histórico da conversa'
+    body: "Olá, {0}!\n\nO seu histórico do chat: \n\n{1}\n--- \nObrigado,\nMibew Messenger"
+password_recovery:
+    subject: 'Repor a sua palavra-chave Mibew'
+    body: "Olá {0},\n\nPor favor clique no link abaixo ou copie-o para o seu navegador:\n{1}\n\nIsto permitir-lo-á escolher uma nova palavra-chave.\n\nMibew Messenger."
+leave_message:
+    subject: 'Pergunta de {0}'
+    body: "Você tem mensagens de {0}:\n\n{2}\n\nEmail: {1}\n{3}\n--- \nWeb Messenger"

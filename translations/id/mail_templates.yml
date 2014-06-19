@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: riwayat oborlan'
+    body: "Halo, {0}!\n\nRiwayat obrolan Anda: \n\n{1}\n--- \nSalam,\nMibew Messenger"
+password_recovery:
+    subject: 'Reset sandi Anda Mibew'
+    body: "Hai,{0}\n\nSilakan klik link dibawah atau salin dan paste URL ke browser Anda:\n{1}\n\nIni akan membiarkan Anda memilih sandi yang lain.\n\nMessenger Mibew."
+leave_message:
+    subject: 'Pertanyaan dari {0}'
+    body: "Anda memiliki pesan dari {0}:\n\n{2}\n\nEmailnya: {1}\n{3}\n--- \nSitus messenger anda"

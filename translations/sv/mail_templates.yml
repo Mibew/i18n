@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: chathistorik'
+    body: "Hej, {0}!\n\nDin chatthistoria: \n\n{1}\n--- \nVänligen,\nMibew Messenger"
+password_recovery:
+    subject: 'Återställ ditt Mibew lösenord'
+    body: "Hej, {0}\n\nKlicka på länken nedan eller kopiera in den i adressfältet:\n{1}\n\nDär kan du välja ett annat lösenord.\n\nMibew Messenger."
+leave_message:
+    subject: 'Fråga från {0}'
+    body: "Du har ett meddelande från {0}:\n\n{2}\n\nBesökares epost: {1}\n{3}\n--- \nDin web messenger"

@@ -1,0 +1,9 @@
+user_history:
+    subject: 'מסנגר: היסטוריית השיחות'
+    body: "שלום לך, {0}!\n\nבהמשך לבקשתך, זאת ההיסטוריה: \n\n{1}\n--- \nבכבוד רב,\nמסנגר"
+password_recovery:
+    subject: 'Reset your Mibew password'
+    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+leave_message:
+    subject: 'שאלה מ {0}'
+    body: "האורח שלך '{0}' השאיר הודעה:\n\n{2}\n\n?mail: {1}\n{3}\n--- \nבכבוד רב,\nהמסנגר שלך"

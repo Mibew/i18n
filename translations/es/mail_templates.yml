@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: Historico de charlas'
+    body: "Hola {0}!\n\nSu conversación: \n\n{1}\n--- \nKind Regards,\nMibew Messenger"
+password_recovery:
+    subject: 'Tu contraseña de Mibew se reseteo'
+    body: "Hola, {0}\n\nPorfavor, pincha en el enlace de abajo o copia y pegalo en tu navegador:\n{1}\nEsto te permite cambiar de contraseña.\n\nLocalred.net Mibew Messenger."
+leave_message:
+    subject: 'Pregunta desde {0}'
+    body: "Tiene un mensaje de{0}:\n\n{2}\n\nEste email: {1}\n{3}\n--- \nAtentamente sitio Messenger"

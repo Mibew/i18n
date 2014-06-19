@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger : Uw chat op Vinance website'
+    body: "Beste, {0}!\n\nHierbij een transcript van de chat waar u net aan deelnam: \n\n{1}\n--- \nMet vriendelijke groet,\nMibew Messenger\nHet team van Vinance"
+password_recovery:
+    subject: 'Mibew wachtwoord resetten'
+    body: "Beste {0},\n\nKlik aub op de onderstaande link of copy/paste de URL in uw browser:\n{1}\n\nHier kunt u een nieuw wachtwoord aanmaken.\n\nMibew Messenger."
+leave_message:
+    subject: 'Vraag van {0}'
+    body: "U heeft een bericht ontvangen van {0}:\n\n{2}\n\nEmail: {1}\n{3}\n--- \nUw sitemessenger"

@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: Chat-Protokoll'
+    body: "Hallo, {0}!\n\nIhre Chat-Protokoll: \n\n{1}\n--- \nMit freundlichen Gruessen,\nIhr Support Team"
+password_recovery:
+    subject: 'Reset your Mibew password'
+    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+leave_message:
+    subject: 'Frage von {0}'
+    body: "Sie haben eine Nachricht von {0}:\n\n{2}\n\nSeine email: {1}\n{3}\n--- \nIhr Support Team"

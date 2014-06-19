@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: zaznam dialogu'
+    body: "Nazdar, {0}! \n\nZáznam vašeho chatu:\n\n{1} \n--- \nSrdečné pozdravy, \nMibew Messenger"
+password_recovery:
+    subject: 'Reset your Mibew password'
+    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+leave_message:
+    subject: 'Dotaz od {0}'
+    body: "Máte zprávu od {0}:\n\n{2} \n\nE-mail návštěvníka: {1} \n{3} \n--- \nVáš site messenger"

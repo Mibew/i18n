@@ -1,0 +1,9 @@
+user_history:
+    subject: '网站实时讯息: 对话纪录'
+    body: "{0}!\n\n您的对话纪录如下: \n\n{1}\n--- \n祝好，\n网站实时讯息"
+password_recovery:
+    subject: 重置您的密码
+    body: "您好，{0}\n\n请点击下面的链接，或将其复制并粘贴到您的浏览器地址栏中：{1}"
+leave_message:
+    subject: '问题来自 {0}'
+    body: "您有讯息来自 {0}:\n\n{2}\n\n电子邮件: {1}\n{3}\n--- \n来自网站实时讯息"

@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Messenger: dialog history'
+    body: "Sayın {0},\n\nGörüşme geçmişiniz aşağıdaki gibidir:\n\n{1}\n---\nSaygılarımızla\nÇevrimiçi Canlı Destek Servisi\nMibew Messenger"
+password_recovery:
+    subject: 'Mibew şifrenizi sıfırlayın'
+    body: "Sayın {0}\n\nLütfen aşağıdaki linke tıklayın veya URL adresini kopyalayıp tarayıcınızın adres satırına yapıştırın:\n{1}\n\nBu sayede yeni bir şifre oluşturabileceksiniz.\n\nMibew Messenger."
+leave_message:
+    subject: '{0} tarafından gelen soru'
+    body: "{0} tarafından iletilmiş mesajınız var:\n\n{2}\n\nE-posta adresi: {1}\n{3}\n---\nSistem Yöneticisi"

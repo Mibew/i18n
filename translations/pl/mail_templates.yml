@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Komunikator: okno historii'
+    body: "Witaj, {0}!\n\nTwoja historia rozmowy: \n\n{1}\n--- \nPozdrawiamy,\nMibew Komunikator"
+password_recovery:
+    subject: 'Resetowanie hasła w Mibew'
+    body: 'Witam {0}, Proszę kliknąć na poniższy link lub skopiować i wkleić adres URL do przeglądarki: {1} To pozwoli Ci wybrać inne hasło. Komunikator Mibew.'
+leave_message:
+    subject: 'Zapytanie od {0}'
+    body: "Masz nową wiadomość od {0}:\n\n{2}\n\nJego email: {1}\n{3}\n--- \nTwój Web Komunikator"

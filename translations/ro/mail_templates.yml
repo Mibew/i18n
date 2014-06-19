@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew Mesager: istoria dialogului'
+    body: 'Salut, {0}! Istoria chat-ului dumneavoastră: {1} --- Sincere urări, Mibew Mesager'
+password_recovery:
+    subject: 'reinstalati parola Mibew'
+    body: "Salut , {0}\n\nva rugam sa accesati linkul de mai jos or copiati si puneţi URL in browse-ul dumneavoastra: {1}\n\nAceasta vă va permite să alegeţi altă parolă.\nMibew Mesager."
+leave_message:
+    subject: 'Întrebare de la {0}'
+    body: "Dumneavoastră aveţi mesaj de la {0} :\n\n{2} \n\nEmail-ul este: {1} \n{3} \n---\nMesagerul site-ului dvs"

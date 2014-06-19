@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew: pokalbio istorija'
+    body: "Sveiki, {0}!\n\nSiunčiame Jums pokalbio istoriją: \n\n{1}\n--- \nPagarbiai,\nMibew"
+password_recovery:
+    subject: 'Reset your Mibew password'
+    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+leave_message:
+    subject: 'Klausimas nuo {0}'
+    body: " Kadangi nebuvo laisvų operatorių Lankytojas '{0}' paliko pranešimą:\n\n{2}\n\nЕmail: {1}\n{3}\n--- \n. Su Pagarba,\nJūsų Mibew"

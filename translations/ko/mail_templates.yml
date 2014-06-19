@@ -1,0 +1,9 @@
+user_history:
+    subject: 'Mibew: 대화내역'
+    body: "안녕하세요 {0}! 체팅내용: \n\n{1}\n--- \nMibew 드림"
+password_recovery:
+    subject: 'Reset your Mibew password'
+    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+leave_message:
+    subject: '{0} 의 질문'
+    body: "메세지가 {0} 부터 있습니다:\n\n{2}\n\n이메일: {1}\n{3}\n--- \nMibew 드림"
