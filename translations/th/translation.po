@@ -191,7 +191,7 @@ msgstr "กำลังรอโอเปอร์เรเตอร์เพื
 msgid "clients.title"
 msgstr "รายชื่อผู้เยี่ยมชมที่กำลังรอ"
 msgid "common.asterisk_explanation"
-msgstr "<span class=\"required\">*</span> - กรุณาระบุ"
+msgstr "กรุณาระบุ"
 msgid "company.title"
 msgstr "ชุมชนของMibew Messenger"
 msgid "confirm.take.head"

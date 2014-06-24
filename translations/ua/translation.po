@@ -175,7 +175,7 @@ msgstr "Відвідувачі, що очікують відповідь упе�
 msgid "clients.title"
 msgstr "Список відвідувачів, що очікують відповіді"
 msgid "common.asterisk_explanation"
-msgstr "<span class=\"required\">*</span> - поля, обов'язкові для заповнення"
+msgstr "поля, обов'язкові для заповнення"
 msgid "company.title"
 msgstr "Mibew Messenger Community"
 msgid "confirm.take.head"

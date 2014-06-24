@@ -195,7 +195,7 @@ msgstr "ველოდები ოპერატორს პირველ�
 msgid "clients.title"
 msgstr "მოლოდინში მყოფი სტუმრების სია"
 msgid "common.asterisk_explanation"
-msgstr "<span class=\"required\">*</span> -სავალდებულო ველები"
+msgstr "სავალდებულო ველები"
 msgid "company.title"
 msgstr "Mibew Messenger Community"
 msgid "confirm.take.head"
