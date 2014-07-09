@@ -174,7 +174,7 @@ msgid "Congratulations! You now have Mibew Messenger {1} installed. Turn on more
 msgstr "გილოცავთ! Mibew Messenger {1} დაგიინსტალდათ. ჩართეთ განახლებისთვის <a href=\"{0}\">არჩევითი სერვისები</a> გვერდზე."
 msgid "Correct the mistakes:"
 msgstr "შეასწორე შეცდომები:"
-msgid "Could not connect. Please check server settings in config.php. Error: {0}"
+msgid "Could not connect. Please check server settings in config.yml. Error: {0}"
 msgstr "დაკავშირირება შეუძლებელია,გთხოვთ შეამოწმოთ სერვერის პარამეტრები კონფიგურაციაში.php. მოხდა ცდომიდლება: {0}"
 msgid "Create database \"{0}\""
 msgstr "მონაცემთა ბაზის შექმნა \"{0}\""
