@@ -3,7 +3,7 @@ user_history:
     body: "Salve, {0}!\n\nLa sua cronologia: \n\n{1}\n--- \nCordiali saluti,\nMibew Messenger"
 password_recovery:
     subject: 'Resetta la password Mibew'
-    body: "Ciao, {0}\n\nfai clic sul collegamento qui di seguito oppure copia e incolla l'URL nel tuo browser:\n{1}\n\nQuesto ti permetterà di scegliere una nuova password.\n\nMibew Messenger."
+    body: "Ciao, {0}\n\nfai clic sul link oppure copia e incolla l'URL nel tuo browser:\n{1}\n\nQuesto ti permetterà di scegliere una nuova password.\n\nMibew Messenger."
 leave_message:
     subject: 'Domanda da {0}'
-    body: "Hai una domanda da {0}:\n\n{2}\n\nLa sua e-mail: {1}\n{3}\n--- \nHelp on-line"
+    body: "C'e una nuova domanda da {0}:\n\n{2}\n\nLa sua e-mail: {1}\n{3}\n--- \nHelp on-line"
