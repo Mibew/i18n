@@ -252,6 +252,8 @@ msgid "Congratulations! You now have Mibew Messenger {1} installed. Turn on more
 msgstr "Поздравляем! Вы успешно установили Mibew Веб Мессенджер {1}. Посетите <a href=\"{0}\">страницу Расширений</a>, чтобы подключить больше функций."
 msgid "Connection timeout for messaging window"
 msgstr "Таймаут соединения для окна сообщений"
+msgid "Copyright &copy; {0} Contributors of the Mibew Messenger project."
+msgstr "Авторские права &copy; {0} Участники проекта Mibew Messenger."
 msgid "Correct the mistakes:"
 msgstr "Исправьте ошибки:"
 msgid "Could not connect. Please check server settings in config.yml. Error: {0}"
