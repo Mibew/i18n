@@ -220,8 +220,6 @@ msgid "Your operator has connection issues. We have moved you to a priorty posit
 msgstr "Operátor ztratil spojení, dočasně jsme vás přesunuli do přední fronty. Omlouváme se, že vás necháváme čekat."
 msgid "Your session has expired. Please login again"
 msgstr "Vaše sezení vypršelo, prosím přihlaste se znovu"
-msgid "Your web browser is not fully supported. \nPlease, use one of the following web browsers:"
-msgstr "Váš prohlížeč není Mibew Messengerem plně podporován. Prosím, používejte některý z těchto prohlížečů:"
 msgid "[spam]"
 msgstr "[spam]&nbsp;"
 msgid "edit"
