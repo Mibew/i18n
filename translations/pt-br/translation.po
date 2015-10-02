@@ -691,7 +691,7 @@ msgstr "Opções específicas afetam a janela do chat e o comportamento do siste
 msgid "Specify the poll interval in seconds. Default is 2 seconds."
 msgstr "Especifique o intervalo de sondagem em segundos. O padrão é 2 segundos."
 msgid "Start Chat"
-msgstr "Inicar Chat"
+msgstr "Iniciar Chat"
 msgid "State"
 msgstr "Estado"
 msgid "Statistics"
