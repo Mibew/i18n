@@ -1,0 +1,9 @@
+﻿user_history:
+    subject: 'Mibew Messenger: istorija razgovora'
+    body: "Dobar dan, {0}! \n\nVaša istorija razgovora: \n\n{1} \n--- \nSa poštovanjem, \nMibew Messenger"
+password_recovery:
+    subject: 'Reset your Mibew password'
+    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+leave_message:
+    subject: 'Pitanje od {0}'
+    body: "Imate poruku od {0}: \n\n{2} \n\nNjegov/njezin email: {1} \n{3} \n--- \nVaš Mibew Messenger"
