@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mibew Messenger 2.0\n"
 "Report-Msgid-Bugs-To: support@mibew.org\n"
 "POT-Creation-Date: 2014-08-19 12:44+0000\n"
-"PO-Revision-Date: 2016-11-18 00:55+0100\n"
+"PO-Revision-Date: 2016-12-24 02:25+0300\n"
 "Last-Translator: Gorana Rabar\n"
 "Language: sr@latin\n"
 "Language-Team: Mibew Translators <support@mibew.org>\n"
@@ -303,9 +303,6 @@ msgstr "Izbacivanje postojećih tablica iz baze podataka"
 msgid "E-Mail: {0}"
 msgstr "Email: {0}"
 
-msgid "Each IP becomes a link opening in a new window. {ip} is substituted with a real IP."
-msgstr "Svaki IP postaje link koji se otvara u novom prozoru. {ip} je zamenjen sa pravim ip."
-
 msgid "Edit Message"
 msgstr "Uredi poruku"
 
@@ -432,9 +429,6 @@ msgstr "Funkcije dostupne operaterima stranica."
 msgid "General"
 msgstr "Opšte"
 
-msgid "Geolocation window options"
-msgstr "Opcije prozora geolokacije"
-
 msgid "Go to search"
 msgstr "Idite na pretraživanje"
 
@@ -533,9 +527,6 @@ msgstr "Napusti prozor poruka"
 
 msgid "Leave your message"
 msgstr "Ostavite poruku"
-
-msgid "Link to an external geolocation service"
-msgstr "Link na eksterni servis geolokacije"
 
 msgid "List of banned IPs:"
 msgstr "Lista baniranih IP adresa:"
@@ -1097,9 +1088,6 @@ msgstr "Vreme čekanja"
 
 msgid "Watch the chat"
 msgstr "Gledaj razgovor"
-
-msgid "Window size and toolbars hiding"
-msgstr "Veličina prozora i alatnih traka"
 
 msgid "Yes. I'm sure"
 msgstr "Da, siguran/na sam"
