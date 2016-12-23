@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Mibew Messenger 2.0\n"
 "Report-Msgid-Bugs-To: support@mibew.org\n"
 "POT-Creation-Date: 2014-08-19 12:44+0000\n"
-"PO-Revision-Date: 2016-12-24 02:25+0300\n"
+"PO-Revision-Date: 2016-12-24 02:45+0300\n"
 "Last-Translator: Gorana Rabar\n"
 "Language: sr@latin\n"
 "Language-Team: Mibew Translators <support@mibew.org>\n"
@@ -14,1179 +14,787 @@ msgstr ""
 
 msgid "\"Mail is sent\" window"
 msgstr "\"Email je poslat\" prozor"
-
 msgid "\"Max number of threads\" field should be a number"
 msgstr "Polje \"Maksimalni broj upita\" bi trebao sadržati broj"
-
 msgid "\"Message is delivered\" window"
 msgstr "\"Poruka je dostavljena\" prozor"
-
 msgid "\"Visitor is redirected\" window"
 msgstr "\"Posetitoc je preusmeren\" prozor"
-
 msgid "&lt;no description&gt;"
 msgstr "&lt;nema opisa&gt;"
-
 msgid "(online)"
 msgstr "(online)"
-
 msgid "-all operators-"
 msgstr "-svi operateri-"
-
 msgid "-from general settings-"
 msgstr "-iz opštih podešavanja-"
-
 msgid "0 allows any number of connections"
 msgstr "0 ne ograničava broj veza"
-
 msgid "<b>Application installed successfully.</b>"
 msgstr "<b>Aplikacija je uspešno instalirana.</b>"
-
 msgid "<strong>Caution!</strong> Please don't change<br/> the code manually because<br/> we don't guarantee that<br/> it will work!"
 msgstr "<strong>Pažnja!</strong> Molimo ne menjajte<br/> kod ručno, jer<br/> ne garantujemo da<br/> će raditi!"
-
 msgid "A history of your chat was sent to address {0}"
 msgstr "Istorija vašeg razgovora je poslata na adresu {0}"
-
 msgid "A new visitor is waiting for an answer."
 msgstr "Novi posetioc čeka odgovor."
-
 msgid "A preview all pages for each style is available <a href=\"{0}\">here</a>"
 msgstr "Pregled svih stranica svakog stila je dostupan <a href=\"{0}\">ovde</a>"
-
 msgid "Ability to modify profile"
 msgstr "Mogućnost uređivanja profila"
-
 msgid "Add address"
 msgstr "Dodaj adresu"
-
 msgid "Add message..."
 msgstr "Dodaj poruku..."
-
 msgid "Add new message."
 msgstr "Dodaj novu poruku."
-
 msgid "Add operator..."
 msgstr "Dodaj operatera..."
-
 msgid "Address {0} is blocked for a specified number of days."
 msgstr "Adresa {0} je blokirana na određeni broj dana."
-
 msgid "Adds a page with messenger usage reports."
 msgstr "Dodaje stranicu sa izvešćem o korišćenju Messengera."
-
 msgid "Administration"
 msgstr "Administracija"
-
 msgid "All strings"
 msgstr "Svi tekstovi"
-
 msgid "Allow secure connections (SSL)"
 msgstr "Dopusti sigurne veze (SSL)"
-
 msgid "Allows a visitor to choose department/group"
 msgstr "Dopušta posetiocu da odabere odeljenje/grupu"
-
 msgid "Allows users to change their names"
 msgstr "Dopušta korisnicima promenu imena"
-
 msgid "Are you sure that you want to delete address {0} from the blocked list?"
 msgstr "Jeste li sigurni da želite izbrisati adresu {0} sa liste blokiranih?"
-
 msgid "Are you sure that you want to delete operator \"{0}\"?"
 msgstr "Jeste li sigurni da želite izbrisati operatera \"{0}\"?"
-
 msgid "Are you sure that you want to delete the group \"{0}\"?"
 msgstr "Jeste li sigurni da želite izbrisati grupu \"{0}\"?"
-
 msgid "Ask for visitor's email"
 msgstr "Pitaj email posetioca"
-
 msgid "Average message length (in chars)"
 msgstr "Prosečna dužina poruke (u znakovima)"
-
 msgid "Back..."
 msgstr "Nazad..."
-
 msgid "Ban List"
 msgstr "Lista banovanih"
-
 msgid "Ban this visitor"
 msgstr "Banj posetioca"
-
 msgid "Block address"
 msgstr "Blokiraj adresu"
-
 msgid "Blocked visitors"
 msgstr "Blokirani posetioc"
-
 msgid "Browser"
 msgstr "Pregledač"
-
 msgid "Button HTML code generation"
 msgstr "Generisanje HTML koda za dugme"
-
 msgid "Button HTML code generation."
 msgstr "Generisanje HTML koda dugma."
-
 msgid "Button code"
 msgstr "Kod dugma"
-
 msgid "Canned Messages"
 msgstr "Sačuvane poruke"
-
 msgid "Cannot execute:"
 msgstr "Nemoguće izvesti:"
-
 msgid "Change locale."
 msgstr "Jezik programa."
-
 msgid "Change name"
 msgstr "Promeni ime"
-
 msgid "Change operator"
 msgstr "Promeni operatera"
-
 msgid "Change restrictions and available features for this operator."
 msgstr "Promena ograničenja i dostupnih mogućnosti za ovog operatera."
-
 msgid "Changes saved"
 msgstr "Promene su sačuvane"
-
 msgid "Chat Threads"
 msgstr "Lista razgovora"
-
 msgid "Chat history"
 msgstr "Istorija razgovora"
-
 msgid "Chat log"
 msgstr "Zapis razgovora"
-
 msgid "Chat themes preview"
 msgstr "Pregled tema"
-
 msgid "Chat threads"
 msgstr "Lista razgovora"
-
 msgid "Chat window (operator-mode)"
 msgstr "Prozor razgovora (operater-način rada)"
-
 msgid "Chat window (user-mode)"
 msgstr "Prozor razgovora (korisnik-način rada)"
-
 msgid "Chat window style"
 msgstr "Stil prozora za razgovor"
-
 msgid "Choose Department:"
 msgstr "Odaberite odeljenje:"
-
 msgid "Choose groups according to operator skills."
 msgstr "Odaberi grupe prema znanjima operatera."
-
 msgid "Choose image"
 msgstr "Odaberi sliku"
-
 msgid "Choose style"
 msgstr "Odaberi stil"
-
 msgid "Choose template"
 msgstr "Odaberi predložak"
-
 msgid "Choose the avatar file to upload.<br/>The picture size should not exceed 100x100 px."
 msgstr "Odaberite dokument avatara za slanje. <br/> Slika ne bi smela biti veća od 100x100 piksela."
-
 msgid "Choose your language"
 msgstr "Odaberite jezik"
-
 msgid "Choose:"
 msgstr "Odaberi:"
-
 msgid "Click on this link to close the window"
 msgstr "Kliknite na ovaj link za zatvaranje prozora"
-
 msgid "Click to chat with the visitor"
 msgstr "Kliknite za razgovor s posetiocem"
-
 msgid "Click to close the window"
 msgstr "Klikni za zatvaranje prozora"
-
 msgid "Close"
 msgstr "Zatvori"
-
 msgid "Close chat"
 msgstr "Zatvori razgovor"
-
 msgid "Close..."
 msgstr "Zatvori..."
-
 msgid "Closed"
 msgstr "Zatvoren"
-
 msgid "Code for group"
 msgstr "Kod za grupu"
-
 msgid "Code for language"
 msgstr "Kod za jezik"
-
 msgid "Comment"
 msgstr "Komentar"
-
 msgid "Company title"
 msgstr "Ime preduzeća"
-
 msgid "Completed:"
 msgstr "Završeno:"
-
 msgid "Confirm new password."
 msgstr "Potvrdite novu lozinku."
-
 msgid "Confirmation"
 msgstr "Potvrda lozinke"
-
 msgid "Correct the mistakes:"
 msgstr "Ispravite greške:"
-
 msgid "Could not connect. Please check server settings in config.yml. Error: {0}"
 msgstr "Ne mogu se povezati, molimo proverite postavke servera u config.yml. Greška: {0}"
-
 msgid "Create database \"{0}\""
 msgstr "Kreiraj bazu podataka \"{0}\""
-
 msgid "Create new group"
 msgstr "Napravi novu grupu"
-
 msgid "Create new group here."
 msgstr "Ovde možete napraviti novu grupu."
-
 msgid "Create or delete company operators. Manage their permissions."
 msgstr "Dodavanje, brisanje operatera preduzeća. Uređivanje njihovih podešavanja."
-
 msgid "Create required tables."
 msgstr "Kreiraj potrebne tabele."
-
 msgid "Current avatar image"
 msgstr "Trenutna slika avatara"
-
 msgid "Database \"{0}\" is created."
 msgstr "Baza podataka \"{0}\" je kreirana."
-
 msgid "Date"
 msgstr "Datum"
-
 msgid "Days"
 msgstr "dana"
-
 msgid "Delete"
 msgstr "Izbriši"
-
 msgid "Department or skill based groups."
 msgstr "Grupe operatera prema odsecima ili znanjima."
-
 msgid "Description"
 msgstr "Opis"
-
 msgid "Description in English."
 msgstr "Opis na engleskom."
-
 msgid "Description of the group."
 msgstr "Opis grupe."
-
 msgid "Destination for your company name or logo link"
 msgstr "Web adresa preduzeća ili link na logo"
-
 msgid "Direction:"
 msgstr "Smer:"
-
 msgid "Drop existing tables from database"
 msgstr "Izbacivanje postojećih tablica iz baze podataka"
-
 msgid "E-Mail: {0}"
 msgstr "Email: {0}"
-
 msgid "Edit Message"
 msgstr "Uredi poruku"
-
 msgid "Edit an existing message."
 msgstr "Uredi postojeću poruku."
-
 msgid "Edit general operator settings."
 msgstr "Uredi opšte postavke operatera."
-
 msgid "Edit messages that you frequently type into the chat."
 msgstr "Uredite poruke koje često upisujete u razgovor."
-
 msgid "Email"
 msgstr "Email"
-
 msgid "Email:"
 msgstr "Email:"
-
 msgid "Enable \"Groups\""
 msgstr "Omogući \"Grupe\""
-
 msgid "Enable \"Popup dialog notification of the new visitor\"."
 msgstr "Omogući \"Popup prozor sa obavesti o novom posetiocu\"."
-
 msgid "Enable \"Pre-chat survey\""
 msgstr "Omogući \"Upitnik pre razgovora\""
-
 msgid "Enable \"Statistics\""
 msgstr "Omogući \"Statistiku\""
-
 msgid "Enable feature \"Malicious Visitors\""
 msgstr "Omogući svojstvo \"Zlonamerni posetioci\""
-
 msgid "Enter"
 msgstr "Ulaz"
-
 msgid "Enter a new password or leave the field empty to keep the previous one."
 msgstr "Upišite novu lozinku ili ostavite prazno ako želite zadržati staru."
-
 msgid "Enter a valid email address"
 msgstr "Upišite važeću email adresu"
-
 msgid "Enter an email to receive system messages"
 msgstr "Upišite email za primanje poruka sistema"
-
 msgid "Enter http address of your company logo"
 msgstr "Upišite http adresu logoa preduzeća"
-
 msgid "Enter your company title"
 msgstr "Upišite ime Vašeg preduzeća"
-
 msgid "Enter your email:"
 msgstr "Upišite svoj email:"
-
 msgid "Enter your translation."
 msgstr "Upišite prevod."
-
 msgid "Entered login/password is incorrect"
 msgstr "Upisano korisničko ime/lozinka je pogrešno"
-
 msgid "Entered passwords do not match"
 msgstr "Upisane lozinke nisu iste"
-
 msgid "Environment:"
 msgstr "Okolina:"
-
 msgid "Error"
 msgstr "Greška"
-
 msgid "Error moving file"
 msgstr "Greška kod premeštanja datoteke"
-
 msgid "Error occurred:"
 msgstr "Pojavila se greška:"
-
 msgid "Error uploading file \"{0}\": {1}."
 msgstr "Greška kod slanja datoteke \"{0}\": {1}."
-
 msgid "Error window"
 msgstr "Prozor greške"
-
 msgid "Ex: 127.0.0.1 or example.com"
 msgstr "Primer: 127.0.0.1 ili example.com"
-
 msgid "Example"
 msgstr "Primer"
-
 msgid "Exit"
 msgstr "Izlaz"
-
 msgid "Features activated"
 msgstr "Svojstva aktivirana"
-
 msgid "Follow the wizard to setup your database."
 msgstr "Pripremite bazu podataka pomoću čarobnjaka."
-
 msgid "For group:"
 msgstr "Za grupu:"
-
 msgid "For language:"
 msgstr "Za jezik:"
-
 msgid "Force all chats to be secure"
 msgstr "Svi razgovori moraju biti sigurni"
-
 msgid "Forces the user to fill out a special form to start a chat."
 msgstr "Korisnici moraju ispuniti upitnik pre razgovora."
-
 msgid "Found 0 elements"
 msgstr "pronađeno 0 elemenata"
-
 msgid "From this page you can generate a variety of usage reports."
 msgstr "Na ovoj stranici možete generirate razne izveštaje o korišćenju."
-
 msgid "From:"
 msgstr "Od:"
-
 msgid "Full list of operators:"
 msgstr "Cela lista operatera:"
-
 msgid "Functions available for site operators."
 msgstr "Funkcije dostupne operaterima stranica."
-
 msgid "General"
 msgstr "Opšte"
-
 msgid "Go to search"
 msgstr "Idite na pretraživanje"
-
 msgid "Group"
 msgstr "Grupa"
-
 msgid "Group details"
 msgstr "Detalji grupe"
-
 msgid "Group:"
 msgstr "Grupa:"
-
 msgid "Groups"
 msgstr "Grupe"
-
 msgid "Guest"
 msgstr "Posetioc"
-
 msgid "HTML code"
 msgstr "HTML kod"
-
 msgid "Hello. How may I help you?"
 msgstr "Zdravo, kako Vam mogu pomoći?"
-
 msgid "Here you can block malicious visitors that affect your work with spam messages."
 msgstr "Ovde možete blokirati zlonamerne posetioce koji utieču na Vaše poslovanje sa spam porukama."
-
 msgid "Here you can block malicious visitors."
 msgstr "Ovde se možete obraniti od zlonamernih posetioca."
-
 msgid "Hide menu"
 msgstr "Sakrij meni"
-
 msgid "Hide menu >>"
 msgstr "Sakrij meni >>"
-
 msgid "Home"
 msgstr "Početna"
-
 msgid "How to build visitor's identifying string from {name}, {id} or {addr}. Default: {name}"
 msgstr "Kako se stvara niz podataka identifikatora od {name}, {id} ili {addr}. Uobičajno: {name}"
-
 msgid "If you don't agree with the translation please send us an update."
 msgstr "Ako Vam se ne sviđa prevod, pošaljite nam novi."
-
 msgid "Impossible to update tables structure. Try to do it manually or recreate all tables (warning: all your data will be lost)."
 msgstr "Nije moguće ažurirati strukturu tabela. Pokušajte ručno ili ponovo kreirajte sve tabele (upozorenje: svi Vaši podaci će biti izgubljeni)."
-
 msgid "In chat"
 msgstr "U razgovoru"
-
 msgid "In queue"
 msgstr "Na listi čekanja"
-
 msgid "Include host name into the code"
 msgstr "Uključi ime hosta u kod"
-
 msgid "Info: {0}"
 msgstr "Info: {0}"
-
 msgid "Initial Question:"
 msgstr "Početno pitanje:"
-
 msgid "Installation"
 msgstr "Instalacija"
-
 msgid "Installed localizations:"
 msgstr "Instalirane lokalizacije:"
-
 msgid "International description"
 msgstr "Međunarodni opis"
-
 msgid "International name"
 msgstr "Međunarodno ime"
-
 msgid "International name (Latin)"
 msgstr "Međunarodno ime (latinica)"
-
 msgid "Invalid file type"
 msgstr "Pogrešna vrsta datoteke"
-
 msgid "Key identifier"
 msgstr "Glavnom identifikatoru"
-
 msgid "Language"
 msgstr "Jezik"
-
 msgid "Last active"
 msgstr "Zadnja aktivnost"
-
 msgid "Latest version:"
 msgstr "Poslednja verzija:"
-
 msgid "Leave message window"
 msgstr "Napusti prozor poruka"
-
 msgid "Leave your message"
 msgstr "Ostavite poruku"
-
 msgid "List of banned IPs:"
 msgstr "Lista baniranih IP adresa:"
-
 msgid "List of supported browsers window"
 msgstr "Prozor liste podržanih pretraživača"
-
 msgid "List of visitors waiting"
 msgstr "Lista posetioca koji čekaju"
-
 msgid "Live support"
 msgstr "Podrška uživo"
-
 msgid "Loading"
 msgstr "Učitavanje"
-
 msgid "Localize"
 msgstr "Lokaliziraj"
-
 msgid "Log out of the system."
 msgstr "Odjava iz sistema."
-
 msgid "Login"
 msgstr "Prijava"
-
 msgid "Login can consist of small Latin letters and underscore."
 msgstr "Korisničko ime može da se sastoji od malih slova na latinici i donje crte."
-
 msgid "Login should contain only latin characters, numbers and underscore symbol."
 msgstr "Korisničko ime treba da sadrži samo znakove latinice, brojeve i donju crtu."
-
 msgid "Login:"
 msgstr "Korisničko ime:"
-
 msgid "Mail thread window"
 msgstr "Prozor popisa emailova"
-
 msgid "Main"
 msgstr "Glavni meni"
-
 msgid "Max number of threads from one address"
 msgstr "Maksimalni broj upita sa jedne adrese"
-
 msgid "Members"
 msgstr "Članovi"
-
 msgid "Message"
 msgstr "Poruka"
-
 msgid "Messages"
 msgstr "Poruke"
-
 msgid "Messages from operators"
 msgstr "Poruke operatera"
-
 msgid "Messages from visitors"
 msgstr "Poruke posetioca"
-
 msgid "Messenger settings"
 msgstr "Postavke Messengera"
-
 msgid "Mibew <span class=\"grey\">Messenger</span>"
 msgstr "Mibew <span class=\"grey\">Messenger</span>"
-
 msgid "Mibew Messenger"
 msgstr "Mibew Messenger"
-
 msgid "Mibew Messenger Community"
 msgstr "Mibew Messenger Community"
-
 msgid "Mibew Messenger is an open-source live support application."
 msgstr "Mibew Messenger je aplikacija otvorenog koda za podršku uživo."
-
 msgid "Misc"
 msgstr "Ostalo"
-
 msgid "Modify"
 msgstr "Uredi"
-
 msgid "Name"
 msgstr "Ime"
-
 msgid "Name in English."
 msgstr "Ime na engleskom."
-
 msgid "Name of your company for example."
 msgstr "Na primer, ime Vašeg preduzeća."
-
 msgid "Name to identify the group."
 msgstr "Ime za identificiranje grupe."
-
 msgid "Name:"
 msgstr "Ime:"
-
 msgid "Never"
 msgstr "Nikad"
-
 msgid "New Message"
 msgstr "Nova poruka"
-
 msgid "Next step:"
 msgstr "Sledeći korak:"
-
 msgid "No elements"
 msgstr "Nema elemenata"
-
 msgid "No such Operator"
 msgstr "Operater ne postoji"
-
 msgid "No such group"
 msgstr "Grupa ne postoji"
-
 msgid "No such message"
 msgstr "Nema takve poruke"
-
 msgid "No. Close the window"
 msgstr "Ne, zatvori prozor"
-
 msgid "Not enough data"
 msgstr "Nema dovoljno podataka"
-
 msgid "Numbers of days this address is blocked"
 msgstr "Broj dana blokiranja ove adrese"
-
 msgid "On this page you can edit group details."
 msgstr "Ovde možete urediti detalje grupe."
-
 msgid "Online"
 msgstr "Online"
-
 msgid "Operator"
 msgstr "Operater"
-
 msgid "Operator <strong>{0}</strong> changed operator <strong>{1}</strong>"
 msgstr "Operater <strong>{0}</strong> je zamenio operatera <strong>{1}</strong>"
-
 msgid "Operator details"
 msgstr "Detalji operatera"
-
 msgid "Operator groups"
 msgstr "Grupe operatera"
-
 msgid "Operator {0} is back"
 msgstr "Operater {0} se vratio"
-
 msgid "Operator {0} joined the chat"
 msgstr "Operater {0} se priključio razgovoru"
-
 msgid "Operator {0} left the chat"
 msgstr "Operater {0} je napustio razgovor"
-
 msgid "Operator {0} redirected you to another operator. Please wait a while."
 msgstr "Operater {0} Vas je preusmerio na drugog operatera, molimo pričekajte"
-
 msgid "Operator:"
 msgstr "Operater:"
-
 msgid "Operators"
 msgstr "Operateri"
-
 msgid "Operators list"
 msgstr "Lista operatera"
-
 msgid "Optional Services"
 msgstr "Dodatne opcije"
-
 msgid "Other"
 msgstr "Ostalo"
-
 msgid "Page {0} of {1}, {2}-{3} from {4}"
 msgstr "Stranica {0} od {1}, {2}-{3} od {4}"
-
 msgid "Password"
 msgstr "Lozinka"
-
 msgid "Password:"
 msgstr "Lozinka:"
-
 msgid "Permissions"
 msgstr "Dozvole"
-
 msgid "Photo"
 msgstr "Slika"
-
 msgid "Please choose another login because an operator with that login is already registered in the system."
 msgstr "Molimo odaberite drugo korisničko ime, jer već postoji registrovani operater s unesenim korisničkim imenom."
-
 msgid "Please choose another name because a group with that name already exists."
 msgstr "Molimo odaberite drugo ime, jer već postoji grupa sa upisanim imenom."
-
 msgid "Please enter your company title"
 msgstr "Molimo unesite naziv preduzeća"
-
 msgid "Please enter your username and password to access administrative tools. See your visitors and browse the history."
 msgstr "Molimo upišite svoje korisničko ime i lozinku za pristup administrativnim alatima, pregledu posetioca i pretraživanju istorije."
-
 msgid "Please fill \"{0}\" correctly."
 msgstr "Molimo tačno ispunite \"{0}\"."
-
 msgid "Please fill \"{0}\"."
 msgstr "Molimo ispunite \"{0}\"."
-
 msgid "Please note that your web server should be configured to support https requests."
 msgstr "Molimo, zapamtite da web server treba biti konfigurisan za podržavanje https zahteva."
-
 msgid "Please run the <a href=\"{0}\">Update wizard</a> to adjust your database."
 msgstr "Molimo, pokrenite <a href=\"{0}\">Čarobnjaka za ažuriranje</a> kako biste prilagodili bazu podataka."
-
 msgid "Please use a more recent browser"
 msgstr "Molimo, koristite noviji pretraživač"
-
 msgid "Powered by:"
 msgstr "Omogućio je:"
-
 msgid "Pre-chat survey"
 msgstr "Upitnik pre razgovora"
-
 msgid "Priority visitors' queue"
 msgstr "Prioritetni red čekanja posetioca"
-
 msgid "Problem"
 msgstr "Problem"
-
 msgid "Proceed to the login page"
 msgstr "Nastavite na stranicu prijave"
-
 msgid "Profile"
 msgstr "Profil"
-
 msgid "Reason for block"
 msgstr "Razlog blokiranja"
-
 msgid "Redirect to<br/>another operator"
 msgstr "Preusmeri na<br/>drugog operatera"
-
 msgid "Redirect visitor to another operator"
 msgstr "Preusmeri posetioca drugom operateru"
-
 msgid "Redirect visitor to another operator window"
 msgstr "Prozor preusmeravanja posetioca drugom operateru"
-
 msgid "Refresh"
 msgstr "Osveži"
-
 msgid "Remember"
 msgstr "Zapamti me"
-
 msgid "Remote user is typing..."
 msgstr "Udaljeni korisnik piše..."
-
 msgid "Remove avatar"
 msgstr "Izbriši avatar"
-
 msgid "Required tables are created."
 msgstr "Potrebne tabele su kreirane."
-
 msgid "Resolve the problem and try again. Press <a>back</a> to return to the wizard."
 msgstr "Rešite problem i pokušajte ponovno. Pritisnite <a>nazad</a> za povratak na čarobnjaka."
-
 msgid "Save"
 msgstr "Sačuvaj"
-
 msgid "Saved"
 msgstr "Sačuvano"
-
 msgid "Search"
 msgstr "Traži"
-
 msgid "Search the chat history for a specified user, an operator or a specified phrase in messages."
 msgstr "Pretraga istorije razgovora prema određenom korisniku ili određenoj frazi u poruci."
-
 msgid "Search the dialogs history."
 msgstr "Pretraga starih razgovora."
-
 msgid "Select a style for your chat windows"
 msgstr "Odaberite stil prozora za razgovor"
-
 msgid "Select answer..."
 msgstr "Odaberite odgovor..."
-
 msgid "Select dates"
 msgstr "Odaberi datume"
-
 msgid "Send"
 msgstr "Pošalji"
-
 msgid "Send ({0})"
 msgstr "Pošalji {{0}}"
-
 msgid "Send chat history by e-mail"
 msgstr "Pošalji istoriju razgovora emailom"
-
 msgid "Send chat history<br/>by mail"
 msgstr "Pošalji istoriju razgovora<br/>putem emaila"
-
 msgid "Send message"
 msgstr "Pošalji poruku"
-
 msgid "Send messages with:"
 msgstr "Pošalji poruke sa:"
-
 msgid "Sent"
 msgstr "Poslano"
-
 msgid "Settings"
 msgstr "Podešavanja"
-
 msgid "Show chats only through https connection"
 msgstr "Prikaži razgovore samo kroz https veze"
-
 msgid "Show errors"
 msgstr "Prikaži greške"
-
 msgid "Show initial question field"
 msgstr "Prikaži polje sa početnim pitanjem"
-
 msgid "Show menu"
 msgstr "Prikaži meni"
-
 msgid "Show menu >>"
 msgstr "Prikaži meni >>"
-
 msgid "Show/hide department selection field in the survey"
 msgstr "Prikaži/skrij polje sa odabirom odeljenja u anketi"
-
 msgid "Show/hide email field in the survey"
 msgstr "Prikaži/skrij email polje u anketi"
-
 msgid "Show/hide initial question field in the survey"
 msgstr "Prikaži/skrij polje sa početnim pitanjem u upitniku"
-
 msgid "Show:"
 msgstr "Prikaži:"
-
 msgid "Simple chat window. Refresh to post messages (IE 5, Opera 7)"
 msgstr "Jednostavan prozor za razgovor, osveži za slanje poruka (IE 5, Opera 7)"
-
 msgid "Site style"
 msgstr "Stil stranice"
-
 msgid "Small dialog appears to attract your attention."
 msgstr "Pojavljuje se mali dijaloški okvir da Vam privuče pažnju."
-
 msgid "Software license agreement"
 msgstr "Software licence agreement"
-
 msgid "Sorry. None of the support team is available at the moment. <br/>Please leave a message and someone will get back to you shortly."
 msgstr "Izvinjavamo se, ali trenutno nema dostupnog operatera. <br/>Molimo, ostavite poruku i neko će Vas uskoro kontaktirati."
-
 msgid "Sort by:"
 msgstr "Sortiraj prema:"
-
 msgid "Source language string"
 msgstr "Jeziku izvora"
-
 msgid "Specify options affecting chat window and common system behavior."
 msgstr "Određivanje opcija koji utieču na prozor razgovora i uobičajeno ponašanje sistema."
-
 msgid "Start Chat"
 msgstr "Započni razgovor"
-
 msgid "State"
 msgstr "Status"
-
 msgid "Statistics"
 msgstr "Statistika"
-
 msgid "Strings for administrator"
 msgstr "Tekstovi za administratora"
-
 msgid "Strings for operator"
 msgstr "Tekstovi za operatera"
-
 msgid "Strings for visitor"
 msgstr "Tekstovi za posetioca"
-
 msgid "Structure of your tables should be adjusted for new version of Messenger."
 msgstr "Struktura Vaših tabela treba biti prilagođena novoj verziji Messengera."
-
 msgid "Submit"
 msgstr "Pošalji"
-
 msgid "System administration: settings, operators management, button generation"
 msgstr "Administracija sistema: podešavanja, uređivanje operatera, kreiranje dugmeta"
-
 msgid "Tables structure is up to date."
 msgstr "Struktura tabela je ažurna."
-
 msgid "Take over chat thread"
 msgstr "Preuzmite razgovor"
-
 msgid "Thank you for contacting us. An operator will be with you shortly."
 msgstr "Hvala što ste nas kontaktirali. Uskoro će Vam se pridružiti operater."
-
 msgid "Thank you for contacting us. Please fill out the form below and click the Start Chat button."
 msgstr "Hvala što ste nas kontaktirali. Za bolju uslugu, molim ispunite svoje podatke i kliknite na dugme Započni razgovor."
-
 msgid "Thank you for your message. We'll answer your query by email as soon as possible."
 msgstr "Zahvaljujemo na poruci. Odgovorićemo Vam u najkraćem mogućem roku."
-
 msgid "The database was not found on the server. If you have permissions to create it now, click on the following link."
 msgstr "Baza podataka nije pronađena na serveru. Ako imate dozvole da je sada kreirate, kliknite na sledeći link."
-
 msgid "The list of visitors waiting is empty"
 msgstr "Lista posetioca na čekanju je prazna"
-
 msgid "The specified address is already in use. Click <a href=\"{1}\">here</a> if you want to edit it."
 msgstr "Navedena adresa je već u upotrebi, kliknite <a href=\"{1}\">ovde</a> ako je želite urediti."
-
 msgid "The visitor changed their name <strong>{0}</strong> to <strong>{1}</strong>"
 msgstr "Posetioc je promenio ime iz <strong>{0}</strong> u <strong>{1}</strong>"
-
 msgid "The visitor has been placed in a priorty queue of the group {0}."
 msgstr "Posetioc je smešten u prioritetni red čekanja grupe {0}."
-
 msgid "The visitor has been placed in the priorty queue of the operator {0}."
 msgstr "Posetioc je smešten u prioritetni red čekanja operatera {0}."
-
 msgid "The visitor has been redirected to another operator"
 msgstr "Posetioc je preusmeren na drugog operatera"
-
 msgid "There are so many browsers to choose from. Which ones do you recommend?"
 msgstr "Postoji veliki izbor pretraživača. Koje(i) biste preporučili?"
-
 msgid "This name will be seen by your visitors."
 msgstr "Ovo ime će biti vidljivo posetiocima."
-
 msgid "This page displays a list of company operators."
 msgstr "Ovde možete vidjeti listu operatera preduzeća."
-
 msgid "This page displays a list of groups. Each group can have separate button and canned responses."
 msgstr "Na ovoj stranici možete videti listu grupa u preduzeću. Svaka grupa može imati drugačije dugme i pripremljene odgovore."
-
 msgid "This page displays a list of visitors who are waiting."
 msgstr "Ova stranica prikazuje listu posetioca na čekanju."
-
 msgid "This page displays chat details and content."
 msgstr "Ova stranica prikazuje detalje i sadržaj razgovora."
-
 msgid "Threads by operator"
 msgstr "Liste po operaterima"
-
 msgid "Till"
 msgstr "Do"
-
 msgid "Till:"
 msgstr "Do:"
-
 msgid "Time in chat"
 msgstr "Vreme provedeno u razgovoru"
-
 msgid "Title in the chat window"
 msgstr "Naslov prozora razgovora"
-
 msgid "To answer the visitor click their name in the list."
 msgstr "Odgovorite posetiocu klikom na njegovo/njeno ime na listi."
-
 msgid "Today at {0}"
 msgstr "Danas u {0}"
-
 msgid "Total time"
 msgstr "Ukupno vreme"
-
 msgid "Total:"
 msgstr "Ukupno:"
-
 msgid "Translation"
 msgstr "Prevod"
-
 msgid "Translations"
 msgstr "Čarobnjak za lokalizaciju"
-
 msgid "Turn off to hide edit box from chat window"
 msgstr "Isključi za skrivanje okvira uređivanja u prozoru za razgovor"
-
 msgid "URL of your website"
 msgstr "URL Vaše web stranice"
-
 msgid "Update tables"
 msgstr "Ažuriraj tabele"
-
 msgid "Upload avatar"
 msgstr "Pošalji avatar"
-
 msgid "Upload photo"
 msgstr "Pošalji sliku"
-
 msgid "Uploaded file size exceeded"
 msgstr "Premašena veličina poslate datoteke"
-
 msgid "Usage statistics for each date"
 msgstr "Statistika korišćenja za svaki datum"
-
 msgid "Use it to have separate queues for different questions."
 msgstr "Koristi se za stvaranje različitih tema za različita pitanja."
-
 msgid "Use secure links (https)"
 msgstr "Koristi sigurne linkove (https)"
-
 msgid "User name, operator name or message text search:"
 msgstr "Pretraga prema korisničkom imenu ili tekstu poruke:"
-
 msgid "Using it you can block attacks from specific IPs"
 msgstr "Pomoću njega možete blokirati napade sa određene IP adrese"
-
 msgid "View Chat window (operator in read-only mode)"
 msgstr "Pregled prozora za razgovor (operater u readonly načinu rada)"
-
 msgid "View and edit the member list."
 msgstr "Pregled i uređivanje liste članova."
-
 msgid "View another operator's chat thread"
 msgstr "Pogledajte razgovor drugog operatera"
-
 msgid "Visit history"
 msgstr "Istorija poseta"
-
 msgid "Visitor <span class=\"visitor\">{0}</span> is already being assisted by <span class=\"operator\">{1}</span>.<br/> Are you really sure you want to start chatting the visitor?"
 msgstr "Posetiocu <span class=\"visitor\">{0}</span> već pomaže <span class=\"operator\">{1}</span>.<br/> Jeste li sigurni da želite započeti razgovor sa posetiocem?"
-
 msgid "Visitor closed chat window"
 msgstr "Posetioc je zatvorio prozor za razgovor"
-
 msgid "Visitor joined chat again"
 msgstr "Posetioc se ponovno priključio razgovoru"
-
 msgid "Visitor {0} left the chat"
 msgstr "Posetioc {0} je napustio razgovor"
-
 msgid "Visitor's Address"
 msgstr "Adresa posetioca"
-
 msgid "Visitor's address"
 msgstr "Adresa posetioca"
-
 msgid "Visitor's identifier"
 msgstr "Identifikator posetioca"
-
 msgid "Visitor's messages"
 msgstr "Poruke posetioca"
-
 msgid "Visitors"
 msgstr "Posetioci"
-
 msgid "Visitors in dialogs"
 msgstr "Posetioci u razgovorima"
-
 msgid "Vistor came from page {0}"
 msgstr "Posetioc je došao sa stranice {0}"
-
 msgid "Waiting an operator for the first time"
 msgstr "Čekanje na operatera prvi put"
-
 msgid "Waiting for operator"
 msgstr "Čekanje operatera"
-
 msgid "Waiting time"
 msgstr "Vreme čekanja"
-
 msgid "Watch the chat"
 msgstr "Gledaj razgovor"
-
 msgid "Yes. I'm sure"
 msgstr "Da, siguran/na sam"
-
 msgid "Yesterday at {0}"
 msgstr "Juče u {0}"
-
 msgid "You are"
 msgstr "Vi ste"
-
 msgid "You are chatting with:"
 msgstr "Razgovarate sa:"
-
 msgid "You are connected to MySQL server version {0}"
 msgstr "Spojeni ste na MySQL server verziju {0}"
-
 msgid "You are not allowed to change this person's profile."
 msgstr "Niste ovlašteni za promenu profila ove osobe."
-
 msgid "You are not chatting with the visitor."
 msgstr "Ne razgovarate sa posetiocem."
-
 msgid "You are using:"
 msgstr "Koristite:"
-
 msgid "You are <a href=\"{0}\">{1}</a>"
 msgstr "Vi ste <a href=\"{0}\">{1}</a>"
-
 msgid "You can change your personal information on this page."
 msgstr "Na ovoj stranici možete promeniti svoje lične podatke."
-
 msgid "You can create a new operator here."
 msgstr "Ovde možete kreirati novog operatera."
-
 msgid "You can find awaiting visitors."
 msgstr "Lista posetioca na čekanju."
-
 msgid "You can find the chat history of your visitors here."
 msgstr "Ovde možete pronaći istoriju razgovora sa posetiocima."
-
 msgid "You can generate HTML code to place at your site here."
 msgstr "Ovde možete generisati HTML kod koji ćete postaviti na svoje stranice."
-
 msgid "You can logon as <b>admin</b> with empty password.<br/><br/><span class=\"warning\">!!! For security reasons please change your password immediately and remove the {0} folder from your server.</span>"
 msgstr "Možete se prijaviti kao <b>admin</b> bez lozinke.<br/><br/><span class=\"warning\">!!! Iz sigurnosnih razloga, molimo da odmah promenite lozinku i izbrišete {0} folder sa servera.</span>"
-
 msgid "You can upload your photo only as JPG, GIF, PNG or TIF image files."
 msgstr "Poslate slike mogu biti samo u JPG, GIF, PNG ili TIF formatu."
-
 msgid "You can view the list of themes you currently have installed here."
 msgstr "Ovde možete videti listu tema koje trenutno imate instalirane."
-
 msgid "You have selected From date after Till date"
 msgstr "Odabrali ste početni datum nakon završnog"
-
 msgid "You opened this window for \"{0}\" thread. <i>Address</i> field is already filled. Select a number of days and click <i>Send</i>."
 msgstr "Otvorili ste ovaj prozor za \"{0}\" listu, polje <i>Adresa</i> je već ispunjeno. Odaberite broj dana i kliknite <i>Pošalji</i>."
-
 msgid "Your avatar image."
 msgstr "Slika Vašeg avatara."
-
 msgid "Your company logo"
 msgstr "Logo Vašeg preduzeća"
-
 msgid "Your email"
 msgstr "Vaš email"
-
 msgid "Your message has been sent"
 msgstr "Vaša poruka je poslata"
-
 msgid "Your name"
 msgstr "Vaše ime"
-
 msgid "Your operator has connection issues. We have moved you to a priorty position in the queue. Sorry for keeping you waiting."
 msgstr "Operater ima problema sa vezom, privremeno smo Vas premestili na primarnu listu čekanja. Izvinjavamo se što morate čekati."
-
 msgid "Your session has expired. Please login again"
 msgstr "Vaša sesija je istekla, molimo ponovo se prijavite"
-
 msgid "Your translation is saved."
 msgstr "Prevod je sačuvan."
-
 msgid "[spam]"
 msgstr "[spam]&nbsp;"
-
 msgid "edit"
 msgstr "uredi"
-
 msgid "mandatory fields"
 msgstr "obavezna polja"
-
 msgid "next"
 msgstr "sledeća"
-
 msgid "previous"
 msgstr "prethodna"
-
 msgid "remove"
 msgstr "izbriši"
-
 msgid "without menu"
 msgstr "bez izbornika"
