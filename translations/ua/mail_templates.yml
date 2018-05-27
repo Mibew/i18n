@@ -2,8 +2,8 @@ user_history:
     subject: 'Месенджер: історія діалогу'
     body: "Доброго дня, {0}!\n\nЗгідно Вашого запиту, висилаємо історію: \n\n{1}\n--- \nЗ повагою,\nMibew Месенджер"
 password_recovery:
-    subject: 'Reset your Mibew password'
-    body: "Hi, {0}\n\nPlease click on the link below or copy and paste the URL into your browser:\n{1}\n\nThis will let you choose another password.\n\nRegards,\nMibew"
+    subject: 'Відновлення паролю акаунту Mibew'
+    body: "Доброго дня, {0}\n\nБудь-ласка, клацніть на посилання або скопіюйте та вставте URL-адресу в свій веб-переглядач:\n{1}\n\nЦе дозволить вам змінити пароль.\n\nЗ повагою,\nMibew Месенджер"
 leave_message:
     subject: 'Запитання від {0}'
     body: "Ваш відвідувач {0} залишив повідомлення:\n\n{2}\n\nЙого email: {1}\n{3}\n--- \nЗ повагою,\nВаш веб-месенджер"
